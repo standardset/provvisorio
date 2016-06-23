@@ -10,6 +10,10 @@ a {
     text-decoration: none;
 }
 
+a.hover {
+	color: hotpink;
+}
+
 
 @keyframes example {
     0% {background-color: #ffffff;}
