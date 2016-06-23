@@ -1,0 +1,32 @@
+@import "reset.css"; 
+
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+
+@keyframes example {
+    0% {background-color: #ffffff;}
+    
+    30% {background-color: #e3e5ff;}
+    45% {background-color: #f2e6ff;}
+    55% {background-color: #ffe6fe;}
+    
+    
+    100% {background-color: #ffffff;}
+}
+
+
+
+
+.cambia_colore {
+
+	background-color: red;
+	   -webkit-animation-name: example; /* Chrome, Safari, Opera */
+	   -webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
+	   animation-name: example;
+	   animation-duration: 8s;
+	   animation-iteration-count: infinite;
+}
