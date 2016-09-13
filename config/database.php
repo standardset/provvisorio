@@ -56,7 +56,7 @@ return [
             'driver' => 'mysql',
             'host' => 'localhost',
             'port' => '3306',
-            'database' => 'c9',
+            'database' => 'forge',
             'username' => 'forge',
             'password' => 'Qs7ay1J69C2eLzpZrv6D',
             'charset' => 'utf8',
