@@ -7,5 +7,8 @@
 <br/>
 <br/>
 <iframe width="280" height="157" src="https://www.youtube.com/embed/AYX_MExQIcU" frameborder="0" allowfullscreen></iframe>
+<br/>
+<br/>
+<iframe width="280" height="157" src="https://www.youtube.com/embed/o6EMuN6sltQ" frameborder="0" allowfullscreen></iframe>
 </div>
 @endsection
