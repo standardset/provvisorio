@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>/// ELLE LOCARNO ///</title>
+    <title>ELLE LOCARNO</title>
 
     <!-- Google font
 ================================================== -->
@@ -25,7 +25,7 @@
 <br/>
 <br/>
 <img src="/img/elle.png" alt="" />
-<p>fghfghgffgfg</p>
+
 </div>
 </body>
             
