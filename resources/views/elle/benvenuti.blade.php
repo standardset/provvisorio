@@ -29,7 +29,7 @@
 </div>
 </body>
             
-
+    @yield('menu')
     @yield('benvenuti')
 
     <!-- JavaScripts -->
