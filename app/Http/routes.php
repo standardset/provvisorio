@@ -24,7 +24,7 @@ Route::group(['middleware' => ['web']], function () {
         return view('welcome');
     })->middleware('guest');
     Route::get('/spazi', function () {
-        return view('spazi');
+        return view('spazi.index');
     });
     Route::get('/tasks', 'TaskController@index');
     Route::post('/task', 'TaskController@store');
