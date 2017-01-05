@@ -19,6 +19,10 @@
 
 </head>
 <body class="cambia_colore" style="text-align: center;">
+<div class="menu"> 
+<ul>
+<li><a href="http://www.studiozot.com">-</a></li>
+</ul>
 <div>
 <br/>
 <br/>
