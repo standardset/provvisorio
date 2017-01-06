@@ -33,7 +33,7 @@
 </div>
 </body>
             
-   @yield('home')
+   @yield('video')
 
     <!-- JavaScripts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
