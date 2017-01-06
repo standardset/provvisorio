@@ -40,7 +40,7 @@ a:hover {
 }
 
 
-
+//menu orizzontale
 ul {
     list-style-type: none;
     margin: 0;
@@ -60,4 +60,5 @@ li a:hover {
     color: white;
 }
 
+//fine menu orizzontale
 
