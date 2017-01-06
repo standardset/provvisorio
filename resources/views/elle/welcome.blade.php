@@ -1,4 +1,4 @@
-@extends('benvenuti')
+@extends('elle.benvenuti')
 
 @section('email')
 <div>
