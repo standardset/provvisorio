@@ -23,7 +23,7 @@
 <div class="menu"> 
 <ul>
 <li><a href="/spazi">spazi</a></li>
-<li><a href="/spazi">home</a></li>
+<li><a href="/">home</a></li>
 
 </ul>
 <div>
