@@ -31,7 +31,7 @@
 <img src="/img/elle.png" alt="" />
 
 </div>
- @yield('elle.video')
+ @yield('video')
 </body>
             
   
