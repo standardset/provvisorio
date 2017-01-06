@@ -19,12 +19,12 @@
 
 </head>
 <body class="cambia_colore" style="text-align: center;">
-
+<div>
 <ul>
 <li><a href="/"><p>HOME</p></a></li>
 <li><a href="/spazi"><p>SPAZI</p></a></li>
 </ul>
-
+</div>
 <br/>
 <br/>
 <br/>
