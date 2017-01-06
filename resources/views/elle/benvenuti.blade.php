@@ -21,7 +21,7 @@
 <body class="cambia_colore" style="text-align: center;">
 <div class="menu"> 
 <ul>
-<li><a href="/spazi">-</a></li>
+<li><a href="/spazi">.</a></li>
 </ul>
 <div>
 <br/>
