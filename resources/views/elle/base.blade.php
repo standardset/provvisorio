@@ -21,7 +21,7 @@
 <body class="cambia_colore" style="text-align: center;">
 <div class="menu"> 
 <ul>
-<li><a href="/">HOME</a></li>
+<li><a href="/"><p>HOME</p></a></li>
 </ul>
 <div>
 <br/>
