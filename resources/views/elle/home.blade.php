@@ -1,6 +1,6 @@
 @extends('elle.benvenuti')
 
-@section('email')
+@section('home')
 <div>
 <p><a href="mailto:info@ellelocarno.ch">- info@ellelocarno.ch -</a></p>
 <br/>
