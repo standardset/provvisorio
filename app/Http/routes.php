@@ -21,7 +21,7 @@
 */
 Route::group(['middleware' => ['web']], function () {
     Route::get('/', function () {
-        return view('elle.welcome');
+        return view('welcome');
     })->middleware('guest');
     Route::get('/spazi', function () {
         return view('elle.spazi');
