@@ -22,6 +22,7 @@
 <div class="menu"> 
 <ul>
 <li><a href="/"><p>HOME</p></a></li>
+<li><a href="/spazi"><p>SPAZI</p></a></li>
 </ul>
 <div>
 <br/>
