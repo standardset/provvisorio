@@ -1,4 +1,4 @@
-@extends('views.elle.base')
+@extends('base')
 
 @section('video')
 <div>
