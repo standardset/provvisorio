@@ -21,11 +21,7 @@
 */
 Route::group(['middleware' => ['web']], function () {
     Route::get('/', function () {
-<<<<<<< Updated upstream
         return view('elle.video');
-=======
-        return view('elle.welcome');
->>>>>>> Stashed changes
     })->middleware('guest');
     Route::get('/spazi', function () {
         return view('elle.spazi');
