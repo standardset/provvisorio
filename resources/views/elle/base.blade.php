@@ -21,7 +21,7 @@
 <body class="cambia_colore" style="text-align: center;">
 <ul>
 <li><a href="/"><p>HOME</p></a></li>
-<li style="float:right"><a href="/spazi">SPAZI</a></li>
+<li><a href="/spazi"><p>SPAZI</p></a></li>
 </ul>
 
 <br/>
