@@ -2,6 +2,9 @@
 
 @section('spazi')
 <div>
-<a href="img/spazi_elle.pdf"><p>Gli spazi</p></a>
+
+<p>Gli spazi</p>
+
+<a href="img/spazi_elle.pdf"><img src="img/piani.jpg" alt="" /></a>
 </div>
 @endsection
