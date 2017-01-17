@@ -41,6 +41,12 @@ a:hover {
 
 
 //menu orizzontale
+
+
+.menu {
+	text-align: left;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
