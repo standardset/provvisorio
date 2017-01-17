@@ -41,9 +41,6 @@ a:hover {
 
 
 //menu orizzontale
-
-
-
 ul {
     list-style-type: none;
     margin: 0;
@@ -51,14 +48,13 @@ ul {
     overflow: hidden;
     background-color: #333;
     height: 30px;
-    display: inline-block;
-
 }
 
 
 
 li a {
-		color: #000;
+    display: block;
+    color: #000;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
