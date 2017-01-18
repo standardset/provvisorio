@@ -28,9 +28,11 @@
 <li><a href="/"><p>HOME</p></a></li>
 
 </ul>
-<hr/>
+
 
 </div>
+
+<hr/>
 
 
 
