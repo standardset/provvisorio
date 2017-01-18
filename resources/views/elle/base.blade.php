@@ -20,7 +20,7 @@
 </head>
 <body class="cambia_colore" style="text-align: center;">
 
-<div class="menu">
+<div class="fascia_menu">
 
 <ul id="menu">
 
@@ -28,10 +28,11 @@
 <li><a href="/"><p>HOME</p></a></li>
 
 </ul>
+<hr/>
 
 </div>
 
-<hr/>
+
 
 <br/>
 <br/>

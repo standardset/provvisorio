@@ -29,6 +29,10 @@ a:hover {
 
 
 
+div.fascia_menu {
+	height: 80px;
+}
+
 .cambia_colore {
 
 	background-color: red;
