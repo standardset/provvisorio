@@ -23,8 +23,10 @@
 <div class="menu">
 
 <ul id="menu">
-<li><a href="/"><p>HOME</p></a></li>
+
 <li><a href="/spazi"><p>SPAZI</p></a></li>
+<li><a href="/"><p>HOME</p></a></li>
+
 </ul>
 
 </div>
