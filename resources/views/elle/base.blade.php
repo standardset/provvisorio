@@ -24,6 +24,8 @@
 
 <ul id="menu">
 
+
+<li><a href="mailto:info@ellelocarno.ch"><p>CONTATTI</p></a></li>
 <li><a href="/spazi"><p>SPAZI</p></a></li>
 <li><a href="/"><p>HOME</p></a></li>
 
