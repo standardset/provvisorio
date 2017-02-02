@@ -14,6 +14,8 @@ anziani, favorendo “lo star bene insieme”. Uno “star bene insieme” nell�
 cui noi facciamo parte e di cui vogliamo cogliere l’occasione per favorire la cultura in
 senso ampio: attività come mediazione e opportunità di dialogo e di sviluppo.
 <br/>
+<img class="testo_intorno" src="img/idee_proposte_culturali.jpg" alt="Pannelli delle proposte per lo spazio culturale Elle" width="300px" height="192px"/>
+<br/>
 Il Locarnese, vista la moltitudine di persone, associazioni ed enti già attivi in ambito
 culturale, dispone delle risorse e delle energie necessarie per portare avanti un progetto
 come il nostro. Un progetto che vuole approdare a una casa della cultura: un luogo fisico,
@@ -21,8 +23,7 @@ destinato alla popolazione anche per sostenere le domande dei cittadini e dei su
 emergenti, creando un canale culturale tra gli interventi e gli eventi della politica e i
 bisogni dei cittadini, i quali potranno ridiventare protagonisti di progetti condivisi.
 <br/>
-<img src="img/idee_proposte_culturali.jpg" alt="Pannelli delle proposte per lo spazio culturale Elle" width="300px" height="192px" style="float: left; padding: 15px 15px 0px 0;"/>
-<br/>
+
 Il Forum socio-culturale del Locarnese vuole riunire associazioni culturali e artistiche del
 Locarnese disposte a condividere un ideale di creatività e convivialità. Il Forum socioculturale
 del Locarnese vuole essere un luogo di creazione e d'incontro aperto alle

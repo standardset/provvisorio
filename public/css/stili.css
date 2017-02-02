@@ -111,7 +111,9 @@ li a:hover:not(.active) {
 
 
 
-
+img.testo_intorno {
+	float: left; padding: 15px 15px 0px 0;
+}
 
 
 
