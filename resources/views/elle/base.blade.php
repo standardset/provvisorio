@@ -42,7 +42,7 @@
 
 
 <img src="/img/elle.png" alt="" />
- @yield('video')
+ @yield('home')
  @yield('spazi')
 
 </div>
