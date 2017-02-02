@@ -42,11 +42,6 @@ a.link_interni:hover {
 
 
 
-
-div.fascia_menu {
-	height: 37px;
-}
-
 .cambia_colore {
 
 	background-color: red;
@@ -56,6 +51,29 @@ div.fascia_menu {
 	   animation-duration: 8s;
 	   animation-iteration-count: infinite;
 }
+
+
+
+
+div.fascia_menu {
+	height: 37px;
+}
+
+div#box_centrato {
+max-width: 700px;
+	min-width: 300px;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 150px;
+	padding-right: 60px;
+	padding-left: 60px;
+
+height: auto;
+}
+
+
+
+
 
 
 
@@ -96,17 +114,7 @@ li a:hover:not(.active) {
 
 
 
-div#box_centrato {
-max-width: 700px;
-	min-width: 300px;
-	margin: 0 auto;
-	margin-top: 50px;
-	margin-bottom: 150px;
-	padding-right: 60px;
-	padding-left: 60px;
 
-height: auto;
-}
 
 
 
