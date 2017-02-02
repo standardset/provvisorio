@@ -13,7 +13,6 @@ nel rappresentare un punto di riferimento per la socializzazione di bambini, gio
 anziani, favorendo “lo star bene insieme”. Uno “star bene insieme” nell’interculturalità di
 cui noi facciamo parte e di cui vogliamo cogliere l’occasione per favorire la cultura in
 senso ampio: attività come mediazione e opportunità di dialogo e di sviluppo.
-<br/>
 <img class="testo_intorno" src="img/idee_proposte_culturali.jpg" alt="Pannelli delle proposte per lo spazio culturale Elle" width="300px" height="192px"/>
 <br/>
 Il Locarnese, vista la moltitudine di persone, associazioni ed enti già attivi in ambito
