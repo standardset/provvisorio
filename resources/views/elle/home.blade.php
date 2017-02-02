@@ -21,7 +21,8 @@ destinato alla popolazione anche per sostenere le domande dei cittadini e dei su
 emergenti, creando un canale culturale tra gli interventi e gli eventi della politica e i
 bisogni dei cittadini, i quali potranno ridiventare protagonisti di progetti condivisi.
 <br/>
-<img src="img/idee_proposte_culturali.jpg" alt="Pannelli delle proposte per lo spazio culturale Elle" />
+<img src="img/idee_proposte_culturali.jpg" alt="Pannelli delle proposte per lo spazio culturale Elle" width="700px" height="450px"/>
+<br/>
 Il Forum socio-culturale del Locarnese vuole riunire associazioni culturali e artistiche del
 Locarnese disposte a condividere un ideale di creatività e convivialità. Il Forum socioculturale
 del Locarnese vuole essere un luogo di creazione e d'incontro aperto alle
