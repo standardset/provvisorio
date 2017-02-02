@@ -37,7 +37,8 @@
 <hr/>
 
 
-
+<div id="container">
+<div id="box_centrato">
 <br/>
 <br/>
 <br/>
@@ -47,6 +48,10 @@
 <img src="/img/elle.png" alt="" />
  @yield('video')
  @yield('spazi')
+
+</div>
+</div>
+
 </body>
             
   

@@ -1,7 +1,7 @@
 @extends('elle.base')
 
 @section('video')
-<div class="box_testo">
+<div id="box_centrato">
 <p>Viviamo in un tessuto sociale dove il senso d'appartenenza territoriale viene a mancare:
 tutto diventa sempre più provvisorio, si respira un clima generale d'incertezza e
 smarrimento, vengono meno i punti di riferimento socio-culturali che permettono di
