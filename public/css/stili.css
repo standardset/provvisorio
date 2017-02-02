@@ -3,7 +3,7 @@
 
 p {
 	font-family: 'Open Sans', sans-serif;
-	line-height: 120%;
+	line-height: 140%;
 }
 
 a {
@@ -87,7 +87,7 @@ li a:hover:not(.active) {
 .box_testo {
 	width: 600px;
 	text-align: center;
-	float: left;
+	float: right;
 	margin: 0 auto;
 }
 
