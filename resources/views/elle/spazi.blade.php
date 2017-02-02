@@ -5,14 +5,14 @@
 
 <p>Gli spazi</p>
 <br/><br/>
-Piano interrato
-<img src="img/locali_piano_interrato.svg" alt="" />
+<p>Piano interrato</p>
+<img src="img/locali_piano_interrato.svg" alt="" width="500px" height="*"/>
 <br/>
-Primo piano
-<img src="img/locali_primo_piano.svg" alt="" />
+<p>Primo piano</p>
+<img src="img/locali_primo_piano.svg" alt="" width="500px" height="*" />
 <br/>
-Terzo piano
-<img src="img/locali_terzo_piano.svg" alt="" />
+<p>Terzo piano</p>
+<img src="img/locali_terzo_piano.svg" alt=""  width="500px" height="*"/>
 
 </div>
 @endsection
