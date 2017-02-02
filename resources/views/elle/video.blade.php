@@ -2,7 +2,7 @@
 
 @section('video')
 <div>
-<p><a href="mailto:info@ellelocarno.ch">- info@ellelocarno.ch -</a></p>
+<p><a class="link_interni" href="mailto:info@ellelocarno.ch">- info@ellelocarno.ch -</a></p>
 <br/>
 <br/>
 

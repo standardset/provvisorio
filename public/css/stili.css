@@ -15,6 +15,11 @@ a:hover {
 }
 
 
+a.link_interni:hover {
+	color: #000;
+}
+
+
 @keyframes example {
     0% {background-color: #ffffff;}
     
