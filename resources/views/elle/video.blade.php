@@ -2,7 +2,7 @@
 
 @section('video')
 <div id="box_centrato">
-<p>Viviamo in un tessuto sociale dove il senso d'appartenenza territoriale viene a mancare:
+<p class="testo_giustificato">Viviamo in un tessuto sociale dove il senso d'appartenenza territoriale viene a mancare:
 tutto diventa sempre più provvisorio, si respira un clima generale d'incertezza e
 smarrimento, vengono meno i punti di riferimento socio-culturali che permettono di
 costruire la propria identità, una personale “narrazione di vita”; è sempre più difficile
