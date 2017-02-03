@@ -31,9 +31,9 @@
 
 <map name="terzo_piano">
 
-<area shape="rect" coords="100,90,95,150" href="" alt="Terzo piano, stanza A" title="Terzo piano, stanza A" onmouseover="writeText('Terzo piano, stanza A, metri quadri 55')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')">
+<area shape="rect" coords="0,90,95,300" href="" alt="Terzo piano, stanza A" title="Terzo piano, stanza A" onmouseover="writeText('Terzo piano, stanza A, metri quadri 55')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')">
 
-<area shape="rect" coords="0,90,95,300" href="" alt="Terzo piano, stanza B" title="Terzo piano, stanza B" onmouseover="writeText('Terzo piano, stanza B, metri quadri 40')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')">
+<area shape="rect" coords="95,200,95,150" href="" alt="Terzo piano, stanza B" title="Terzo piano, stanza B" onmouseover="writeText('Terzo piano, stanza B, metri quadri 40')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')">
 
 </map>
 
