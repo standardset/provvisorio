@@ -32,6 +32,7 @@
   <area shape="rect" coords="0,90,95,300" href="" alt="Terzo piano, stanza A" title="Terzo piano, stanza A" onmouseover="writeText('Terzo piano, stanza A, metri quadri 55')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.</br>Clicca sopra la stanza per sapere la disponibilità.')">
   
 </map>
+<br/>
 <p id="desc">Sposta il mouse sulle stanze per avere le informazioni. 
 <br/>
 Clicca sopra la stanza per sapere la disponibilità.</p>
