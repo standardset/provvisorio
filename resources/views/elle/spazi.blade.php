@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-<p><span style="background-color:#f8e0b5">&spn;TERZO PIANO&spn;</span></p>
+<p><span style="background-color:#f8e0b5">&nbsp;TERZO PIANO&nbsp;;</span></p>
 <br/>
 <img src="img/locali_terzo_piano.svg" alt=""  width="300px" height="*" usemap="#terzo_piano"/>
 
