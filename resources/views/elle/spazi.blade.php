@@ -29,7 +29,7 @@
 <br/>
 <img src="img/locali_terzo_piano.svg" alt=""  width="300px" height="*" usemap="#terzo_piano"/>
 <map name="terzo_piano">
-  <area shape="rect" coords="0,90,95,200" href="http://www.studiozot.com" alt="hgfhgfhgfghf" title="Terzo piano, stanza A, metri quadri: XX.XX">
+  <area shape="rect" coords="0,90,95,200" href="Terzo piano, stanza A" alt="" title="Terzo piano, stanza A">
   
 </map>
 <br/>
