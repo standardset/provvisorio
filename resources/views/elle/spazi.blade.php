@@ -27,7 +27,11 @@
 
 <p>Terzo piano</p>
 <br/>
-<img src="img/locali_terzo_piano.svg" alt=""  width="300px" height="*"/>
+<img src="img/locali_terzo_piano.svg" alt=""  width="300px" height="*" usemap="#terzo_piano"/>
+<map name="terzo_piano">
+  <area shape="rect" coords="0,0,82,126" href="http://www.studiozot.com" alt="Sun">
+  
+</map>
 <br/>
 <br/>
 <br/>
