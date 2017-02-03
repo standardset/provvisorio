@@ -27,13 +27,14 @@
 <!--//////////////////TERZO PIANO/////////////////////-->
 <p><span style="background-color:#f8e0b5">&nbsp;TERZO PIANO&nbsp;</span></p>
 <br/>
-<img src="img/locali_terzo_piano.svg" alt=""  width="300px" height="*" usemap="#terzo_piano"/>
+
+<img src="img/locali_terzo_piano.svg" alt="Locali terzo piano"  width="300px" height="300px" usemap="#terzo_piano" />
 
 <map name="terzo_piano">
 
-<area shape="rect" coords="0,90,95,300" href="" alt="Terzo piano, stanza A" title="Terzo piano, stanza A" onmouseover="writeText('Terzo piano, stanza A, metri quadri 55')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
+<area shape="rect" coords="0,90,95,300" onmouseover="writeText('Terzo piano, stanza A, metri quadri 55')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
 
-<area shape="rect" coords="95,90,95,300" href="" alt="Terzo piano, stanza B" title="Terzo piano, stanza B" onmouseover="writeText('Terzo piano, stanza B, metri quadri 40')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
+<area shape="rect" coords="95,90,95,300" onmouseover="writeText('Terzo piano, stanza B, metri quadri 40')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
 
 </map>
 
