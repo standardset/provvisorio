@@ -29,9 +29,10 @@
 <br/>
 <img src="img/locali_terzo_piano.svg" alt=""  width="300px" height="*" usemap="#terzo_piano"/>
 <map name="terzo_piano">
-  <area shape="rect" coords="0,90,95,300" href="" alt="Terzo piano, stanza A" title="Terzo piano, stanza A">
+  <area shape="rect" coords="0,90,95,300" href="" alt="Terzo piano, stanza A" title="Terzo piano, stanza A" onmouseover="writeText('Terzo piano, stanza A, metri quadri XX.XX')">
   
 </map>
+<p id="desc">Sposta il mouse sulle stanze per avere le informazioni. Clicca sopra la stanza per sapere la disponibilità.</p>
 <br/>
 <br/>
 <br/>

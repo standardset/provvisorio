@@ -17,6 +17,18 @@
    <link href="/css/stili.css" rel="stylesheet">
 
 
+
+<!-- TESTO MOSTRA NASCONDI -->
+<script>
+function writeText(txt) {
+    document.getElementById("desc").innerHTML = txt;
+}
+</script>
+<!-- TESTO MOSTRA NASCONDI -->
+
+
+
+
 </head>
 <body class="cambia_colore" style="text-align: center;">
 
