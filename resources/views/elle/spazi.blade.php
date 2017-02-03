@@ -29,7 +29,7 @@
 <br/>
 <img src="img/locali_terzo_piano.svg" alt=""  width="300px" height="*" usemap="#terzo_piano"/>
 <map name="terzo_piano">
-  <area shape="rect" coords="0,90,95,300" href="Terzo piano, stanza A" alt="" title="Terzo piano, stanza A">
+  <area shape="rect" coords="0,90,95,300" href="" alt="Terzo piano, stanza A" title="Terzo piano, stanza A">
   
 </map>
 <br/>
