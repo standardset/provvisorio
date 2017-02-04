@@ -40,6 +40,12 @@
 
 
 
+<area shape="rect" coords="110,95,200,175" onmouseover="writeText('Terzo piano, stanza C, metri quadri 24')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
+
+
+
+
+
 </map>
 
 <br/>
