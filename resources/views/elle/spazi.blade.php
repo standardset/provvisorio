@@ -43,7 +43,7 @@
 <area shape="rect" coords="110,95,200,175" onmouseover="writeText('Terzo piano, stanza C, metri quadri 24.56')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
 
 
-<area shape="rect" coords="110,95,200,175" onmouseover="writeText('Terzo piano, stanza D, metri quadri 26.58')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
+<area shape="rect" coords="222,93,290,288" onmouseover="writeText('Terzo piano, stanza D, metri quadri 26.58')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
 
 
 
