@@ -8,7 +8,7 @@
 <p><span style="background-color:#f8e0b5">&nbsp;PIANO INTERRATO&nbsp;</span></p>
 <br/>
 
-<img src="img/locali_piano_interrato.svg" alt="Locali piano interrato"  width="300px" height="300px" usemap="#piano_interrato" />
+<img src="img/locali_piano_interrato.svg" alt="Locali piano interrato"  width="300px" height="*" usemap="#piano_interrato" />
 
 <map name="piano_interrato">
 
@@ -20,7 +20,7 @@
 
 
 
-<area shape="rect" coords="110,95,200,175" onmouseover="writeText('Piano interrato, stanza C, metri quadri XX')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
+<area shape="rect" coords="215,420,303,555" onmouseover="writeText('Piano interrato, stanza C, metri quadri 36.43')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
 
 </map>
 
