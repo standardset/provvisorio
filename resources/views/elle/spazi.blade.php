@@ -4,19 +4,40 @@
 <div>
 
 
-<br/><br/>
-<p>Piano interrato</p>
-<br/>
-<img src="img/locali_piano_interrato.svg" alt="" width="300px" height="*"/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<!--//////////////////PIANO INTERRATO/////////////////////-->
+<p><span style="background-color:#f8e0b5">&nbsp;PIANO INTERRATO&nbsp;</span></p>
 <br/>
 
+<img src="img/locali_piano_interrato.svg" alt="Locali piano interrato"  width="300px" height="300px" usemap="#piano_interrato" />
+
+<map name="piano_interrato">
+
+<area shape="rect" coords="0,350,150,410" onmouseover="writeText('Piano interrato, stanza A, metri quadri 34')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
+
+
+
+<area shape="rect" coords="0,423,100,540" onmouseover="writeText('Piano interrato, stanza B, metri quadri 30.859')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
+
+
+
+<area shape="rect" coords="110,95,200,175" onmouseover="writeText('Piano interrato, stanza C, metri quadri XX')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
+
+</map>
+
+<br/>
+<br/>
+<p id="desc">Sposta il mouse sulle stanze per avere le informazioni. </p>
+<br/>
+<br/>
+<br/>
+<br/>
+<!--//////////////////FINE PIANO INTERRATO/////////////////////-->
+
+
+
+
 <!--//////////////////PRIMO PIANO/////////////////////-->
-<p><span style="background-color:#f8e0b5">&nbsp;TERZO PIANO&nbsp;</span></p>
+<p><span style="background-color:#f8e0b5">&nbsp;PRIMO PIANO&nbsp;</span></p>
 <br/>
 
 <img src="img/locali_primo_piano.svg" alt="Locali primo piano"  width="300px" height="*" usemap="#primo_piano" />
