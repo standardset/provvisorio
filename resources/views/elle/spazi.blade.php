@@ -32,15 +32,18 @@
 
 <map name="terzo_piano">
 
-<area shape="rect" coords="0,90,95,300" onmouseover="writeText('Terzo piano, stanza A, metri quadri 55')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
+<area shape="rect" coords="0,90,95,300" onmouseover="writeText('Terzo piano, stanza A, metri quadri 55.36')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
 
 
 
-<area shape="rect" coords="110,180,212,295" onmouseover="writeText('Terzo piano, stanza B, metri quadri 40')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
+<area shape="rect" coords="110,180,212,295" onmouseover="writeText('Terzo piano, stanza B, metri quadri 40.29')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
 
 
 
-<area shape="rect" coords="110,95,200,175" onmouseover="writeText('Terzo piano, stanza C, metri quadri 24')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
+<area shape="rect" coords="110,95,200,175" onmouseover="writeText('Terzo piano, stanza C, metri quadri 24.56')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
+
+
+<area shape="rect" coords="110,95,200,175" onmouseover="writeText('Terzo piano, stanza D, metri quadri 26.58')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
 
 
 
