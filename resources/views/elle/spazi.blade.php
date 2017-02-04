@@ -19,7 +19,7 @@
 <p><span style="background-color:#f8e0b5">&nbsp;TERZO PIANO&nbsp;</span></p>
 <br/>
 
-<img src="img/locali_primo_piano.svg" alt="Locali primo piano"  width="300px" height="*" usemap="#terzo_piano" />
+<img src="img/locali_primo_piano.svg" alt="Locali primo piano"  width="300px" height="*" usemap="#primo_piano" />
 
 <map name="primo_piano">
 
