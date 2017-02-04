@@ -26,7 +26,7 @@
 
 <br/>
 <br/>
-<p id="desc">Sposta il mouse sulle stanze per avere le informazioni. </p>
+<p id="interrato">Sposta il mouse sulle stanze per avere le informazioni. </p>
 <br/>
 <br/>
 <br/>
@@ -64,7 +64,7 @@
 
 <br/>
 <br/>
-<p id="desc">Sposta il mouse sulle stanze per avere le informazioni. </p>
+<p id="primo">Sposta il mouse sulle stanze per avere le informazioni. </p>
 <br/>
 <br/>
 <br/>
@@ -100,7 +100,7 @@
 
 <br/>
 <br/>
-<p id="desc">Sposta il mouse sulle stanze per avere le informazioni. </p>
+<p id="terzo">Sposta il mouse sulle stanze per avere le informazioni. </p>
 <br/>
 <br/>
 <br/>

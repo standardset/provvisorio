@@ -18,13 +18,31 @@
 
 
 
-<!-- TESTO MOSTRA NASCONDI -->
+<!-- TESTO MOSTRA NASCONDI PIANO INTERRATO -->
 <script>
-function writeText(txt) {
-    document.getElementById("desc").innerHTML = txt;
+function writeTextInterrato(txt) {
+    document.getElementById("interrato").innerHTML = txt;
 }
 </script>
-<!-- TESTO MOSTRA NASCONDI -->
+
+
+<!-- TESTO MOSTRA NASCONDI PRIMO PIANO -->
+<script>
+function writeTextPrimo(txt) {
+    document.getElementById("primo").innerHTML = txt;
+}
+</script>
+
+
+<!-- TESTO MOSTRA NASCONDI TERZO PIANO-->
+<script>
+function writeTextTerzo(txt) {
+    document.getElementById("terzo").innerHTML = txt;
+}
+</script>
+
+
+
 
 
 
