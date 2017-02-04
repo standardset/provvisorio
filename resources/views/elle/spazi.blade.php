@@ -44,7 +44,7 @@
 
 <map name="primo_piano">
 
-<area shape="rect" coords="0,345,140,406" onmouseover="writeTextPrimo('Primo piano, stanza A, metri quadri 32.23')" onmouseout="writeTextPrimo('Sposta il mouse sulle stanze per avere le informazioni.')"/>
+<area shape="rect" coords="0,345,140,406" onmouseover="writeTextPrimo('Primo piano, stanza A, metri quadri 32.23')" onmouseout="writeTextPrimo('Sposta il mouse sulle stanze per avere le informazioni.')" href="http://www.studiozot.com"/>
 
 
 
