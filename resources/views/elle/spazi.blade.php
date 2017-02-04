@@ -55,7 +55,7 @@
 <area shape="rect" coords="100,470,215,540" onmouseover="writeTextPrimo('Primo piano, stanza C, metri quadri 39.21')" onmouseout="writeTextPrimo('Sposta il mouse sulle stanze per avere le informazioni.')" href="" />
 
 
-<area shape="rect" coords="218,465,290,540" onmouseover="writeTextPrimo('Primo piano, stanza D, metri quadri 18.11')" onmouseout="writeTextPrimo('Sposta il mouse sulle stanze per avere le informazioni.')"/>
+<area shape="rect" coords="218,465,290,540" onmouseover="writeTextPrimo('Primo piano, stanza D, metri quadri 18.11')" onmouseout="writeTextPrimo('Sposta il mouse sulle stanze per avere le informazioni.')" href="" />
 
 
 <area shape="rect" coords="190,0,295,355" onmouseover="writeTextPrimo('Primo piano, stanza E, metri quadri 146.77')" onmouseout="writeTextPrimo('Sposta il mouse sulle stanze per avere le informazioni.')" href="" />
