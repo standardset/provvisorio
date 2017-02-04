@@ -16,7 +16,7 @@
 
 
 
-<area shape="rect" coords="0,423,100,540" onmouseover="writeText('Piano interrato, stanza B, metri quadri 30.859')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
+<area shape="rect" coords="0,423,100,540" onmouseover="writeText('Piano interrato, stanza B, metri quadri 30.85')" onmouseout="writeText('Sposta il mouse sulle stanze per avere le informazioni.')"/>
 
 
 
