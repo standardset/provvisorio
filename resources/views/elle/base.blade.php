@@ -60,13 +60,12 @@ function writeTextTerzo(txt) {
 
 
 <script type="text/javascript">
-
 $(document).ready(function() {
 
     // page is now ready, initialize the calendar...
 
     $('#calendar').fullCalendar({
-        weekends: false // will hide Saturdays and Sundays
+        // put your options and callbacks here
     })
 
 });
