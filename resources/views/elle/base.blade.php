@@ -54,26 +54,27 @@ function writeTextTerzo(txt) {
 
 <!--////////////CALENDARIO//////////////-->
 <script src="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.min.js"></script>
-<link href="http:http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.min.css" rel="stylesheet">
+<link href="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.min.css" rel="stylesheet">
 
 
 
 
-<script> 
-$(document).ready(function() {
 
-
-    $('#calendar').fullCalendar({
-    })
-
-});
-</script>
 
 <!--////////////FINE CALENDARIO//////////////-->
 
 
 </head>
 <body class="cambia_colore" style="text-align: center;">
+
+
+<script> 
+$(document).ready(function() {
+    $('#calendar').fullCalendar({
+    })
+});
+</script>
+
 
 <div class="fascia_menu">
 
