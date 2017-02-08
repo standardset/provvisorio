@@ -42,11 +42,34 @@ function writeTextTerzo(txt) {
 </script>
 
 
-<!--////////////CALENDARIO//////////////-->
 
-<link href="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.min.js">
+<!-- /////////////// JQUERY //////////////// -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script> 
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+<!-- /////////////// FINE JQUERY //////////////// -->
+
+<!-- //////////////////MOMENT/////////////// -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.1/moment.min.js"></script>
+<!-- //////////////////FINE MOMENT/////////////// -->
+
+<!--////////////CALENDARIO//////////////-->
+<script src="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.min.js"></script>
 <link href="http:http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.min.css" rel="stylesheet">
-<link href="http:http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.print.css" rel="stylesheet">
+
+
+
+
+<script> 
+$(document).ready(function() {
+
+    // page is now ready, initialize the calendar...
+
+    $('#calendar').fullCalendar({
+        // put your options and callbacks here
+    })
+
+});
+</script>
 
 <!--////////////FINE CALENDARIO//////////////-->
 
