@@ -43,31 +43,7 @@ function writeTextTerzo(txt) {
 
 
 
-<!-- /////////////// JQUERY //////////////// -->
-<script
-  src="https://code.jquery.com/jquery-3.1.1.js"
-  integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
-  crossorigin="anonymous"></script> 
- <!-- /////////////// FINE JQUERY //////////////// -->
 
-<!-- //////////////////MOMENT/////////////// -->
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.1/moment.min.js"></script>
-<!-- //////////////////FINE MOMENT/////////////// -->
-
-<!--////////////CALENDARIO//////////////-->
-<script src="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.min.js"></script>
-<link href="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.min.css" rel="stylesheet">
-
-<script> 
-$(document).ready(function() {
-    $('#calendar').fullCalendar({
-    })
-});
-</script>
-
-
-
-<!--////////////FINE CALENDARIO//////////////-->
 
 
 </head>
