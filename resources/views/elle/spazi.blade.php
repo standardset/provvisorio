@@ -112,7 +112,5 @@
 
 
 
-
-<div id='calendar'></div>
 </div>
 @endsection
