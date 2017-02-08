@@ -44,9 +44,11 @@ function writeTextTerzo(txt) {
 
 
 <!-- /////////////// JQUERY //////////////// -->
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script> 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<!-- /////////////// FINE JQUERY //////////////// -->
+<script
+  src="https://code.jquery.com/jquery-3.1.1.js"
+  integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
+  crossorigin="anonymous"></script> 
+ <!-- /////////////// FINE JQUERY //////////////// -->
 
 <!-- //////////////////MOMENT/////////////// -->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.1/moment.min.js"></script>
@@ -56,8 +58,12 @@ function writeTextTerzo(txt) {
 <script src="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.min.js"></script>
 <link href="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.min.css" rel="stylesheet">
 
-
-
+<script> 
+$(document).ready(function() {
+    $('#calendar').fullCalendar({
+    })
+});
+</script>
 
 
 
@@ -68,12 +74,7 @@ function writeTextTerzo(txt) {
 <body class="cambia_colore" style="text-align: center;">
 
 
-<script> 
-$(document).ready(function() {
-    $('#calendar').fullCalendar({
-    })
-});
-</script>
+
 
 
 <div class="fascia_menu">
