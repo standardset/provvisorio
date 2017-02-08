@@ -110,5 +110,13 @@
 <br/>
 <!--//////////////////FINE TERZO PIANO/////////////////////-->
 
+
+
+
+<div id='calendar'></div>
+
+
+
+
 </div>
 @endsection
