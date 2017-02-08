@@ -42,9 +42,13 @@ function writeTextTerzo(txt) {
 </script>
 
 
+<!--////////////CALENDARIO//////////////-->
 
+<link href="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.min.js">
+<link href="http:http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.min.css" rel="stylesheet">
+<link href="http:http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.print.css" rel="stylesheet">
 
-
+<!--////////////FINE CALENDARIO//////////////-->
 
 
 </head>
