@@ -58,12 +58,21 @@ function writeTextTerzo(txt) {
 <script src="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.min.js"></script>
 <link href="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.min.css" rel="stylesheet">
 
-<script> 
+
+<script type="text/javascript">
+
 $(document).ready(function() {
+
+    // page is now ready, initialize the calendar...
+
     $('#calendar').fullCalendar({
+        weekends: false // will hide Saturdays and Sundays
     })
+
 });
+
 </script>
+
 
 
 
