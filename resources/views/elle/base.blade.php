@@ -58,20 +58,12 @@ function writeTextTerzo(txt) {
 <script src="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.min.js"></script>
 <link href="http://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.min.css" rel="stylesheet">
 
-
-<script type="text/javascript">
+<script> 
 $(document).ready(function() {
-
-    // page is now ready, initialize the calendar...
-
     $('#calendar').fullCalendar({
-        // put your options and callbacks here
     })
-
 });
-
 </script>
-
 
 
 
