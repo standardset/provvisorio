@@ -77,6 +77,7 @@ function writeTextTerzo(txt) {
 <img src="/img/elle.png" alt="" />
  @yield('home')
  @yield('spazi')
+ @yield('calendario')
 
 </div>
 </div>
