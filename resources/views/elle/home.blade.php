@@ -2,6 +2,11 @@
 
 @section('home')
 <div id="box_centrato">
+
+<img src="/img/elle.png" alt="logo spazio elle" />
+ 
+ 
+ 
 <p class="testo_giustificato">Viviamo in un tessuto sociale dove il senso d'appartenenza territoriale viene a mancare:
 tutto diventa sempre più provvisorio, si respira un clima generale d'incertezza e
 smarrimento, vengono meno i punti di riferimento socio-culturali che permettono di
