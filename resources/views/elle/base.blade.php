@@ -73,7 +73,6 @@ function writeTextTerzo(txt) {
 <div id="box_centrato">
 
 
-<img src="/img/elle.png" alt="logo spazio elle" />
  @yield('home')
  @yield('spazi')
  @yield('calendario')
