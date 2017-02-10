@@ -57,6 +57,7 @@ a.link_interni:hover {
 
 div.fascia_menu {
 	height: 57px;
+	width: 100%;
 }
 
 div#box_centrato {
@@ -110,10 +111,6 @@ li a:hover:not(.active) {
 }
 
 
-
-img.testo_intorno {
-	float: left; padding: 15px 15px 0px 0;
-}
 
 
 
