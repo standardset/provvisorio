@@ -55,13 +55,12 @@ function writeTextTerzo(txt) {
 
 <div class="fascia_menu">
 
+<img src="/img/elle.png" alt="logo spazio elle" />
+
 <ul id="menu">
-
-
 <li><a href="mailto:info@ellelocarno.ch"><p>CONTATTI</p></a></li>
 <li><a href="/spazi"><p>SPAZI</p></a></li>
 <li><a href="/"><p>HOME</p></a></li>
-
 </ul>
 
 
@@ -74,7 +73,7 @@ function writeTextTerzo(txt) {
 <div id="box_centrato">
 
 
-<img src="/img/elle.png" alt="" />
+<img src="/img/elle.png" alt="logo spazio elle" />
  @yield('home')
  @yield('spazi')
  @yield('calendario')
