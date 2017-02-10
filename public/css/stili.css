@@ -61,6 +61,7 @@ position: fixed;
 	width: 100%;
 	border-bottom: 1px solid #333;
 	margin-bottom: 50px;
+	padding-bottom: 50px;
 }
 
 div#box_centrato {
