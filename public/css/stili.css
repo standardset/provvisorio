@@ -60,7 +60,6 @@ position: fixed;
 	height: 37px;
 	width: 100%;
 	border-bottom: 1px solid #333;
-	margin-bottom: 50px;
 	
 }
 
@@ -87,7 +86,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    height: 45px; 
+
     float: right;
 }
 
