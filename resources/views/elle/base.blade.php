@@ -66,7 +66,7 @@ function writeTextTerzo(txt) {
 
 </div>
 
-<hr/>
+
 
 
 <div id="container">

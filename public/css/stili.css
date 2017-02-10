@@ -59,6 +59,7 @@ div.fascia_menu {
 position: fixed;
 	height: 57px;
 	width: 100%;
+	border-bottom: 1px solid #333;
 }
 
 div#box_centrato {
