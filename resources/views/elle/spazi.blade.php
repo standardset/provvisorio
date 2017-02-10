@@ -1,7 +1,17 @@
 @extends('elle.base')
 
 @section('spazi')
-<div id="box_centrato">
+<div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 <!--//////////////////PIANO INTERRATO/////////////////////-->
