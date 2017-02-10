@@ -60,6 +60,8 @@ position: fixed;
 	height: 37px;
 	width: 100%;
 	border-bottom: 1px solid #333;
+	background-color: #fff;
+	opacity: 0.8;
 	
 }
 
