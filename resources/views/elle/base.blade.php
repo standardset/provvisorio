@@ -55,7 +55,7 @@ function writeTextTerzo(txt) {
 
 <div class="fascia_menu">
 
-<img style="float: left; padding-left: 20px;" src="/img/logo_elle_fascia_menu.png" alt="logo spazio elle" height="55px" width="*"/>
+<img style="float: left; padding-left: 20px; margin-top: 10px;" src="/img/logo_elle_fascia_menu.png" alt="logo spazio elle" height="55px" width="*"/>
 
 <ul id="menu">
 <li><a href="mailto:info@ellelocarno.ch"><p>CONTATTI</p></a></li>
