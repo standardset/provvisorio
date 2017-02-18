@@ -62,7 +62,7 @@ function writeTextTerzo(txt) {
 
 
 <div style="float: left ; margin-left: 30px; margin-top: 30px;">
-<p>Piazza G. Pedrazzini 12
+<p style="text-align: left;">Piazza G. Pedrazzini 12
 <br/>
 6600 Locarno</p>
 </div>
