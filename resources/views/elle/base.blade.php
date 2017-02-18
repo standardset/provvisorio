@@ -59,6 +59,7 @@ function writeTextTerzo(txt) {
 <div class="fascia_menu">
 
 <img style="float: left; padding-left: 20px; margin-top: 10px;" src="/img/logo_elle_fascia_menu.png" alt="logo spazio elle" height="55px" width="*"/>
+<div style="float: left ;"><p>Piazza G. Pedrazzini 12</p></div>
 
 <ul id="menu">
 <li><a href="mailto:info@ellelocarno.ch"><p>CONTATTI</p></a></li>
