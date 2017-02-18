@@ -114,7 +114,13 @@ li a:hover:not(.active) {
 }
 
 
+#indirizzo {
 
+	float: left ; 
+	margin-left: 30px; 
+	margin-top: 26px
+	
+}
 
 
 
