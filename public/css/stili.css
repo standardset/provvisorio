@@ -73,13 +73,8 @@ a {
 }
 
 a:hover {
-	color: #ffffff;
-	background-color: #e8e8e8;
-}
-
-
-a.link_interni:hover {
-	color: #000;
+	color: #fff;
+	background-color: #cbcbcb;
 }
 
 
