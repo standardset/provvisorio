@@ -14,19 +14,7 @@ p.testo_giustificato {
 
 
 
-a {
-    color: #000;
-    text-decoration: none;
-}
 
-a:hover {
-	color: #ffffff;
-}
-
-
-a.link_interni:hover {
-	color: #000;
-}
 
 
 @keyframes example {
@@ -75,6 +63,25 @@ div#box_centrato {
 	padding-left: 10px;
 	height: auto;
 }
+
+
+
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+	color: #ffffff;
+	background-color: #e8e8e8;
+}
+
+
+a.link_interni:hover {
+	color: #000;
+}
+
 
 
 
