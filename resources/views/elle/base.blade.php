@@ -67,6 +67,14 @@ function writeTextTerzo(txt) {
 <li><a href="/"><p>HOME</p></a></li>
 </ul>
 
+
+<script>
+for (var i = 0; i < document.links.length; i++) {
+    if (document.links[i].href == document.URL) {
+        document.links[i].className = 'active';
+    }
+}
+</script>
 </div>
 
 
