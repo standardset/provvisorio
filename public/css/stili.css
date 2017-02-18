@@ -31,13 +31,10 @@ a.link_interni:hover {
 
 @keyframes example {
     0% {background-color: #ffffff;}
-    
     30% {background-color: #e3e5ff;}
     45% {background-color: #f2e6ff;}
     55% {background-color: #ffe6fe;}
-    
-    
-    100% {background-color: #ffffff;}
+	 100% {background-color: #ffffff;}
 }
 
 
@@ -45,35 +42,29 @@ a.link_interni:hover {
 .cambia_colore {
 
 	background-color: red;
-	   -webkit-animation-name: example; /* Chrome, Safari, Opera */
-	   -webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
-	   animation-name: example;
-	   animation-duration: 8s;
-	   animation-iteration-count: infinite;
+	-webkit-animation-name: example; /* Chrome, Safari, Opera */
+	-webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
+	animation-name: example;
+	animation-duration: 8s;
+	animation-iteration-count: infinite;
 }
 
 
 
 
 div.fascia_menu {
-position: fixed;
+	position: fixed;
 	height: 90px;
 	width: 100%;
-	
 	background-color: #fff;
 	opacity: 0.6;
-	
 }
 
 div#box_centrato {
-max-width: 700px;
+	max-width: 700px;
 	min-width: 300px;
 	margin: 0 auto;
-
 	margin-bottom: 150px;
-	padding-right: 50px;
-	padding-left: 50px;
-
 height: auto;
 }
 
@@ -95,7 +86,7 @@ ul {
 
 
 ul#menu li {
-float: right;
+	float: right;
 }
 
 
