@@ -13,6 +13,7 @@
     <!-- Google font
 ================================================== -->
 <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=News+Cycle" rel="stylesheet">
 <!-- fine google font
 ================================================== -->
 
