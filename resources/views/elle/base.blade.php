@@ -56,7 +56,7 @@ function writeTextTerzo(txt) {
 
 
 
-<div class="cambia_colore">
+<div class="fascia_menu">
 
 <img style="float: left; padding-left: 20px; margin-top: 10px;" src="/img/logo_elle_fascia_menu.png" alt="logo spazio elle" height="55px" width="*"/>
 

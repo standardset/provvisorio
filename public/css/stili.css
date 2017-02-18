@@ -56,8 +56,13 @@ div.fascia_menu {
 	position: fixed;
 	height: 75px;
 	width: 100%;
-	background-color: #fff;
-	opacity: 0.6;
+	background-color: red;
+	-webkit-animation-name: example; /* Chrome, Safari, Opera */
+	-webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
+	animation-name: example;
+	animation-duration: 8s;
+	animation-iteration-count: infinite;
+	
 }
 
 div#box_centrato {
