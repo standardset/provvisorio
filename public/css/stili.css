@@ -73,9 +73,6 @@ div#box_centrato {
 
 
 
-
-
-
 ul {
     list-style-type: none;
     margin: 0;
@@ -96,7 +93,7 @@ ul#menu li {
 li a {
     display: block;
 		text-align: center;
-    padding: 14px 12px;
+    padding: 20px 12px;
     text-decoration: none;
 }
 
