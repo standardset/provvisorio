@@ -61,7 +61,7 @@ function writeTextTerzo(txt) {
 <img style="float: left; padding-left: 20px; margin-top: 10px;" src="/img/logo_elle_fascia_menu.png" alt="logo spazio elle" height="55px" width="*"/>
 
 
-<div style="float: left ; margin-left: 30px; margin-top: 28px;">
+<div style="float: left ; margin-left: 30px; margin-top: 26px;">
 <p style="text-align: left;">Piazza G. Pedrazzini 12
 <br/>
 6600 Locarno</p>
