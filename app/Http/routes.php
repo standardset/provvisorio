@@ -31,6 +31,10 @@ Route::group(['middleware' => ['web']], function () {
         return view('elle.calendario');
     });
     
+     Route::get('/mappa', function () {
+        return view('elle.mappa');
+    });
+    
     Route::get('/tasks', 'TaskController@index');
     Route::post('/task', 'TaskController@store');
     Route::delete('/task/{task}', 'TaskController@destroy');
