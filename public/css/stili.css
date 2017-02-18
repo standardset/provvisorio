@@ -57,7 +57,7 @@ div.fascia_menu {
 }
 
 div#box_centrato {
-	max-width: 700px;
+	max-width: 650px;
 	min-width: 300px;
 	margin: 0 auto;
 	margin-bottom: 150px;
@@ -120,7 +120,7 @@ li a:hover:not(.active) {
 
 	float: left ; 
 	margin-left: 27px; 
-	margin-top: 25px
+	margin-top: 23px
 	
 }
 
