@@ -77,6 +77,7 @@ function writeTextTerzo(txt) {
  @yield('home')
  @yield('spazi')
  @yield('calendario')
+ @yield('mappa')
 
 </div>
 </div>
