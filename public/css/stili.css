@@ -51,7 +51,7 @@ div.fascia_menu {
 	animation-name: example;
 	animation-duration: 8s;
 	animation-iteration-count: infinite;
-	opacity: 0.9;
+	opacity: 0;
 	z-index: 10;
 }
 
