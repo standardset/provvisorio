@@ -60,7 +60,7 @@ div.fascia_menu {
 div.fascia_sfumatura {
 	position: fixed;
 
-	height: 45px;
+	height: 50px;
 	width: 100%;
 	
 background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 1)), color-stop(0.998, rgba(255, 255, 255, 0)));
