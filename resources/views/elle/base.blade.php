@@ -86,6 +86,10 @@ for (var i = 0; i < document.links.length; i++) {
 </div>
 
 
+<div class="fascia_sfumatura">
+</div>
+
+
 
 
 <div id="container">
