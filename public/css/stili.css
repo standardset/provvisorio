@@ -51,7 +51,7 @@ div.fascia_menu {
 	animation-name: example;
 	animation-duration: 8s;
 	animation-iteration-count: infinite;
-	opacity: 0;
+	opacity: 0.9;
 	z-index: 10;
 }
 
@@ -60,13 +60,11 @@ div.fascia_menu {
 div.fascia_sfumatura {
 	position: fixed;
 
-	height: 50px;
+	height: 85px;
 	width: 100%;
-	
-background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 1)), color-stop(0.998, rgba(255, 255, 255, 0)));
-		
-		z-index: 2;
-}
+	z-index: 2;
+		background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0.5, rgba(255, 255, 255, 1)), color-stop(0.998, rgba(255, 255, 255, 0)));
+	}
 
 
 
