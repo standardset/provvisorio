@@ -63,7 +63,7 @@ div.fascia_sfumatura {
 	height: 85px;
 	width: 100%;
 	
-		background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.99)), color-stop(0.998, rgba(255, 255, 255, 0))) red;
+		background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.99)), color-stop(0.998, rgba(255, 255, 255, 0)));
 		
 		z-index: 2;
 }
