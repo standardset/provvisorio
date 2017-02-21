@@ -52,7 +52,7 @@ div.fascia_menu {
 	animation-duration: 8s;
 	animation-iteration-count: infinite;
 	opacity: 0.9;
-	background: -webkit-gradient(linear, left top, left bottom, from(rgba(155, 155, 155, 0.58)), color-stop(0.998, rgba(100,100,100,0.1))) red;
+	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.58)), color-stop(0.998, rgba(255, 255, 255, 0.1))) red;
 }
 
 div#box_centrato {
