@@ -84,24 +84,23 @@ div#box_centrato {
 
 
 
-a {
+a:link {
     color: #000;
     text-decoration: none;
 }
+
+a.collegamenti_interni:link {
+    color: #407bf5;
+    text-decoration: underline;
+}
+
 
 a:hover {
 	color: #cbcbcb;
 	background-color: #e8e8e8;
 }
 
-
-
-a.link_interni {
-    color: #407bf5;
-    text-decoration: underline;
-}
-
-.link_interni:hover {
+a.collegamenti_interni:hover {
 	color: #cbcbcb;
 
 }
