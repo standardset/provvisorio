@@ -97,6 +97,7 @@ a:hover {
 
 a.link_interni {
     color: #407bf5;
+    text-decoration: underline;
 }
 
 a.link_interni:hover {
