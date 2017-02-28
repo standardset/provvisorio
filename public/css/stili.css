@@ -95,6 +95,15 @@ a:hover {
 
 
 
+a.link_interni {
+    color: #407bf5;
+}
+
+a.link_interni:hover {
+	color: #cbcbcb;
+
+}
+
 
 
 ul {
