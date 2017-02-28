@@ -84,10 +84,16 @@ div#box_centrato {
 
 
 
-a:link {
+a.menu:link {
     color: #000;
     text-decoration: none;
 }
+
+a.menu:hover {
+	color: #cbcbcb;
+	background-color: #e8e8e8;
+}
+
 
 a.collegamenti_interni:link {
     color: #407bf5;
@@ -100,10 +106,7 @@ a.collegamenti_interni:hover {
 }
 
 
-a:hover {
-	color: #cbcbcb;
-	background-color: #e8e8e8;
-}
+
 
 
 
