@@ -17,7 +17,7 @@ inviateci le vostre disponibilità e le proposte di attività. Ci incontreremo q
 Per coloro che si sono resi disponibili ad aiutarci nell'allestimento degli spazi, offrendo il proprio tempo oppure del materiale, vi scriveremo una volta ricevuto il permesso di entrare nella casa da parte del Comune. Questo dovrebbe avvenire verso la fine di marzo. Per chi invece avesse urgenza di liberarsi di materiale, può scriverci sempre a <a class="collegamenti_interni" href="mailto:info@ellelocarno.ch">info@ellelocarno.ch</a> e spedire alcune foto. Vi ricontatteremo al più presto e ci occuperemo noi del trasporto.
 <br/>
 <br/>
-<span style="text-align: right;">Gruppo di lavoro - Spazio ELLE</span></p>
+<span style="float: right;">Gruppo di lavoro - Spazio ELLE</span></p>
 <br/>
 <br/>
 
