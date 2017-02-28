@@ -84,12 +84,12 @@ div#box_centrato {
 
 
 
-a.menu:link {
+a.collegamenti_menu:link {
     color: #000;
     text-decoration: none;
 }
 
-a.menu:hover {
+a.collegamenti_menu:hover {
 	color: #cbcbcb;
 	background-color: #e8e8e8;
 }
