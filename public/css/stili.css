@@ -12,6 +12,7 @@ p {
 p.testo_giustificato {
 	text-align: justify;
 	line-height: 170%;
+	font-size: 115%;
 }
 
 
