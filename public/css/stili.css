@@ -94,16 +94,17 @@ a.collegamenti_interni:link {
     text-decoration: underline;
 }
 
+a.collegamenti_interni:hover {
+	color: #cbcbcb;
+
+}
+
 
 a:hover {
 	color: #cbcbcb;
 	background-color: #e8e8e8;
 }
 
-a.collegamenti_interni:hover {
-	color: #cbcbcb;
-
-}
 
 
 
