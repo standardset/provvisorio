@@ -10,46 +10,15 @@
  
  
  
-<p class="testo_giustificato">Viviamo in un tessuto sociale dove il senso d'appartenenza territoriale viene a mancare:
-tutto diventa sempre più provvisorio, si respira un clima generale d'incertezza e
-smarrimento, vengono meno i punti di riferimento socio-culturali che permettono di
-costruire la propria identità, una personale “narrazione di vita”; è sempre più difficile
-lasciare traccia di sé oggi e per il futuro.
+<p class="testo_giustificato">Cari amici e futuri partners e utenti del quasi nato Spazio ELLE,
 <br/>
-Una delle qualità specifiche d'azione del Forum socio-culturale del Locarnese consiste
-nel rappresentare un punto di riferimento per la socializzazione di bambini, giovani, adulti,
-anziani, favorendo “lo star bene insieme”. Uno “star bene insieme” nell’interculturalità di
-cui noi facciamo parte e di cui vogliamo cogliere l’occasione per favorire la cultura in
-senso ampio: attività come mediazione e opportunità di dialogo e di sviluppo.
+inviateci le vostre disponibilità e le proposte di attività. Ci incontreremo quindi divisi già in gruppi di lavoro entro la fine di marzo, per discutere e cominciare a organizzare i lavori. Diffondete dunque questo annuncio e affrettatevi a compilare il formulario elettronico, ricordandovi che non c'è comunque data di scadenza e che sarà sempre possibile presentare ulteriori progetti! Chi, nel corso dell'ultima assemblea, avesse già proposto un'attività ma volesse comunque descriverla più precisamente, può farlo sempre attraverso questo link:
 <br/>
-Il Locarnese, vista la moltitudine di persone, associazioni ed enti già attivi in ambito
-culturale, dispone delle risorse e delle energie necessarie per portare avanti un progetto
-come il nostro. Un progetto che vuole approdare a una casa della cultura: un luogo fisico,
-destinato alla popolazione anche per sostenere le domande dei cittadini e dei suoi gruppi
-emergenti, creando un canale culturale tra gli interventi e gli eventi della politica e i
-bisogni dei cittadini, i quali potranno ridiventare protagonisti di progetti condivisi.
+<a href="https://goo.gl/forms/u76dNfReP1vEQpe42"> Vai al formulario elettronico</a> 
 <br/>
-
-Il Forum socio-culturale del Locarnese vuole riunire associazioni culturali e artistiche del
-Locarnese disposte a condividere un ideale di creatività e convivialità. Il Forum socioculturale
-del Locarnese vuole essere un luogo di creazione e d'incontro aperto alle
-esigenze delle diverse associazioni e ai loro bisogni concreti. I locali della ex Casa d'Italia
-– caduti in disuso dopo la loro chiusura definitiva lo scorso anno – sembrano rispondere
-all'esigenza, e all'urgenza, di un centro socio-culturale locarnese, in modo particolare
-dopo lo sgombero di Casa Rossi a favore della Casa del Cinema.
-<br/>
-Il Forum socio-culturale del Locarnese vuole, da una parte, soddisfare i bisogni di
-associazioni già esistenti ed emergenti: bisogni che non si riducono a una richiesta di
-spazi per le singole associazioni, ma che tendono alla condivisione e alla messa in
-comune tramite l'istituzione di spazi condivisi (atelier collettivi, sale di prova o di
-montaggio); d'altra parte, il nostro progetto mira al coinvolgimento della cittadinanza
-tramite le attività che verranno proposte (spettacoli, concerti, esposizioni, dibattiti, corsi),
-ma anche grazie alla presenza di spazi di condivisione attiva: quali ad esempio aule
-didattiche per i doposcuola e punti di ritrovo per le famiglie, il tutto a favore
-dell'integrazione sociale e dello scambio intergenerazionale.
-<br/>
-Questo progetto si situa a metà strada fra il centro culturale e la maison de quartier e mira
-a due obiettivi complementari: uno di carattere artistico e uno di carattere sociale.</p>
+Per coloro che si sono resi disponibili ad aiutarci nell'allestimento degli spazi, offrendo il proprio tempo oppure del materiale, vi scriveremo una volta ricevuto il permesso di entrare nella casa da parte del Comune. Questo dovrebbe avvenire verso la fine di marzo. Per chi invece avesse urgenza di liberarsi di materiale, può scriverci sempre a  info@ellelocarno.ch e spedire alcune foto. Vi ricontatteremo al più presto e ci occuperemo noi del trasporto.
+ 
+Gruppo di lavoro - Spazio ELLE</p>
 <br/>
 <br/>
 
