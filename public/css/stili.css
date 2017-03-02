@@ -65,13 +65,25 @@ div.fascia_menu {
 
 
 
-div.fascia_sfumatura {
+div.fascia_sfumatura_header {
 	position: fixed;
 	height: 85px;
 	width: 100%;
 	z-index: 2;
 		background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0.5, rgba(255, 255, 255, 1)), color-stop(0.998, rgba(255, 255, 255, 0)));
 	}
+
+
+div.fascia_sfumatura_footer {
+	position: fixed;
+	height: 85px;
+	width: 100%;
+	z-index: 2;
+		background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0.5, rgba(255, 255, 255, 1)), color-stop(0.998, rgba(255, 255, 255, 0)));
+	}
+
+
+
 
 
 

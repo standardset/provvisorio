@@ -86,7 +86,7 @@ for (var i = 0; i < document.links.length; i++) {
 </div>
 
 
-<div class="fascia_sfumatura">
+<div class="fascia_sfumatura_header">
 </div>
 
 
@@ -103,6 +103,11 @@ for (var i = 0; i < document.links.length; i++) {
 
 </div>
 </div>
+
+<div class="fascia_sfumatura_footer">
+</div>
+
+
 <div id="footer"><p>© ELLE Locarno 2017 | <a href="http://www.studiozot.com">Webmaster</a></p></div>
 </body>
             
