@@ -99,6 +99,7 @@ for (var i = 0; i < document.links.length; i++) {
  @yield('spazi')
  @yield('calendario')
  @yield('mappa')
+ @yield('contatti')
 
 </div>
 </div>
