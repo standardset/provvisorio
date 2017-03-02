@@ -13,8 +13,7 @@
 <div>
 
 <h1 class="titolo_pagina">
-Le persone responsabili 
-<br/>dei settori dello Spazio ELLE
+I responsabili dei settori
 </h1>
 
 <p>
