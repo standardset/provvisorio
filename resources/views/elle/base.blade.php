@@ -69,7 +69,7 @@ function writeTextTerzo(txt) {
 </div>
 
 <ul id="menu">
-<li><a class="collegamenti_menu" href="mailto:info@ellelocarno.ch"><p>CONTATTI</p></a></li>
+<li><a class="collegamenti_menu" href="/contatti"><p>CONTATTI</p></a></li>
 <li><a class="collegamenti_menu" href="/mappa"><p>MAPPA</p></a></li>
 <li><a class="collegamenti_menu" href="/spazi"><p>SPAZI</p></a></li>
 <li><a class="collegamenti_menu" href="/"><p>HOME</p></a></li>

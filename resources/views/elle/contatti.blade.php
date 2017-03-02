@@ -24,49 +24,49 @@ Musica
 <br/>
 Ronnie Rodriguez
 <br/>
-musica@ellelocarno.ch
+<a class="collegamenti_interni" href="mailto:musica@ellelocarno.ch">musica@ellelocarno.ch</a>
 <br/>
 <br/>
 Arti performative
 <br/>
 Marco Cupellari
 <br/>
-artiperformative@ellelocarno.ch
+<a class="collegamenti_interni" href="mailto:artiperformative@ellelocarno.ch">artiperformative@ellelocarno.ch</a>
 <br/>
 <br/>
 Arti visive
 <br/>
 Riccardo Lisi
 <br/>
-artivisive@ellelocarno.ch
+<a class="collegamenti_interni" href="mailto:artivisive@ellelocarno.ch">artivisive@ellelocarno.ch</a>
 <br/>
 <br/>
 Socio-culturale
 <br/>
 Saffia Shaukat
 <br/> 
-socioculturale@ellelocarno.ch
+<a class="collegamenti_interni" href="mailto:socioculturale@ellelocarno.ch">socioculturale@ellelocarno.ch</a>
 <br/>
 <br/>
 Letteratura e cinema
 <br/>
 Yari Moro
 <br/> 
-letteraturacinema@ellelocarno.ch
+<a class="collegamenti_interni" href="mailto:letteraturacinema@ellelocarno.ch">letteraturacinema@ellelocarno.ch</a>
 <br/>
 <br/>
 Atelier
 <br/>
 Matteo Minetti
 <br/> 
-atelier@ellelocarno.ch
+<a class="collegamenti_interni" href="mailto:atelier@ellelocarno.ch">atelier@ellelocarno.ch</a>
 <br/>
 <br/>
 Animazione
 <br/>
 Lorenzo Perucchi
 <br/>
-animazione@ellelocarno.ch
+<a class="collegamenti_interni" href="mailto:animazione@ellelocarno.ch">animazione@ellelocarno.ch</a>
 <br/>
 <br/>
 
