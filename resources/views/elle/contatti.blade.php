@@ -13,7 +13,7 @@
 <div>
 
 <h1 class="titolo_pagina">
-I responsabili dei settori
+I responsabili per settore
 </h1>
 
 <p>
