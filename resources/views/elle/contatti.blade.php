@@ -17,7 +17,6 @@ I responsabili dei settori
 </h1>
 
 <p>
-<br/>
 <br/> 
 Musica
 <br/>
