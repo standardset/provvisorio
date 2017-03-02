@@ -103,7 +103,7 @@ for (var i = 0; i < document.links.length; i++) {
 
 </div>
 </div>
-<div id="footer">© ELLE Locarno 2017 |<a href="http://www.studiozot.com">Webmaster</a></div>
+<div id="footer"><p>© ELLE Locarno 2017 |<a href="http://www.studiozot.com">Webmaster</a></p></div>
 </body>
             
   
