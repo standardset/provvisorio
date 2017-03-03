@@ -26,6 +26,15 @@ line-height: 140%;
 
 
 
+::selection { 
+    background: #cccccc; 
+    } 
+::-moz-selection { 
+    background: #cccccc; 
+}
+
+
+
 
 @keyframes example {
     0% {background-color: #ffffff;}
