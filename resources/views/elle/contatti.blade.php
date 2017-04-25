@@ -53,7 +53,7 @@ Matteo Minetti
 <a class="collegamenti_interni" href="mailto:atelier@ellelocarno.ch">atelier@ellelocarno.ch</a>
 <br/>
 <br/>
-Animazione
+Socio-ricreativo
 <br/>
 Lorenzo Perucchi
 <br/>
