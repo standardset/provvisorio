@@ -39,13 +39,6 @@ Riccardo Lisi
 <a class="collegamenti_interni" href="mailto:artivisive@ellelocarno.ch">artivisive@ellelocarno.ch</a>
 <br/>
 <br/>
-Socio-culturale
-<br/>
-Saffia Shaukat
-<br/> 
-<a class="collegamenti_interni" href="mailto:socioculturale@ellelocarno.ch">socioculturale@ellelocarno.ch</a>
-<br/>
-<br/>
 Letteratura e cinema
 <br/>
 Yari Moro
@@ -64,7 +57,7 @@ Animazione
 <br/>
 Lorenzo Perucchi
 <br/>
-<a class="collegamenti_interni" href="mailto:animazione@ellelocarno.ch">animazione@ellelocarno.ch</a>
+<a class="collegamenti_interni" href="mailto:socio-ricreativo@ellelocarno.ch">socio-ricreativo@ellelocarno.ch</a>
 <br/>
 <br/>
 
