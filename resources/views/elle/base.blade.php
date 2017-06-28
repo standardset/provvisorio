@@ -8,7 +8,7 @@
 
 
 
-    <title>ELLE LOCARNO</title>
+    <title>-ELLE LOCARNO-</title>
 
     <!-- Google font
 ================================================== -->
