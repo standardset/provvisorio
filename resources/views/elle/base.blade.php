@@ -8,7 +8,7 @@
 
 
 
-    <title>-ELLE LOCARNO-</title>
+    <title>ELLE LOCARNO</title>
 
     <!-- Google font
 ================================================== -->
@@ -65,7 +65,7 @@ function writeTextTerzo(txt) {
 <div id="indirizzo">
 <p style="text-align: left;">Piazza G. Pedrazzini 12
 <br/>
-6600 Locarno-</p>
+6600 Locarno</p>
 </div>
 
 <ul id="menu">
