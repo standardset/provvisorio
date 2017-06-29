@@ -17,7 +17,7 @@ I responsabili per settore
 </h1>
 
 <p>
-Ciao 
+Ciao <?php echo $name; ?> 
 </p>
 
 </div>
