@@ -12,8 +12,7 @@
  
 <p class="testo_giustificato">
    
-   <?php echo=$name; ?>
-    </p>
+   </p>
 <br/>
 
 </div>
