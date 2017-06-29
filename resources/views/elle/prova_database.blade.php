@@ -17,7 +17,14 @@ I responsabili per settore
 </h1>
 
 <p>
-Ciaone <?php echo $name; ?> 
+
+<?php foreach ($tasks as task) : ?>
+
+<ul>
+<li><?= $task;?> </li>
+<?php endforeach;?>
+
+ </ul> 
 </p>
 
 </div>
