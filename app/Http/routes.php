@@ -43,7 +43,7 @@ Route::group(['middleware' => ['web']], function () {
                  
                  'Go to the store', 
                  'Finish my screencast', 
-                 'Clean the house'
+                 'Clean the house',
              ]; 
              
         return view('elle.prova_database', compact('tasks'));
