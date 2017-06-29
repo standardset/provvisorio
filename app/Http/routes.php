@@ -38,10 +38,7 @@ Route::group(['middleware' => ['web']], function () {
     
     
          Route::get('/prova_database', function () {
-        return view('elle.prova_database', [ 
-        'name' => 'World' 
-        
-        ]);
+        return view('elle.prova_database')->with('name');
     });
     
     
