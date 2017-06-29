@@ -100,6 +100,7 @@ for (var i = 0; i < document.links.length; i++) {
  @yield('calendario')
  @yield('mappa')
  @yield('contatti')
+ @yield('prova_database')
 
 </div>
 </div>
