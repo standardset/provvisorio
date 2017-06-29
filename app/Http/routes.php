@@ -23,6 +23,7 @@ Route::group(['middleware' => ['web']], function () {
     Route::get('/', function () {
         return view('elle.home');
     })->middleware('guest');
+
     Route::get('/spazi', function () {
         return view('elle.spazi');
     });
@@ -33,6 +34,11 @@ Route::group(['middleware' => ['web']], function () {
     
      Route::get('/mappa', function () {
         return view('elle.mappa');
+    });
+    
+    
+         Route::get('/prova_database', function () {
+        return view('elle.prova_database');
     });
     
     
