@@ -18,11 +18,12 @@ I responsabili per settore
 
 <p>
 
-<?php foreach ($tasks as $task) : ?>
+@foreach ($tasks as $task)
 
 <ul>
-<li><?= $task; ?> </li>
-<?php endforeach; ?>
+<li>{{ $task }}</li>
+
+ @endforeach
 
  </ul> 
 </p>
