@@ -16,9 +16,12 @@
 Tutti gli eventi
 </h1>
 <br/>
-<p>
+
 
 @foreach ($tasks as $task)
+<p>
+
+
 
 <a href="/tasks/{{ $task->id }}"> 
 
@@ -27,10 +30,11 @@ Tutti gli eventi
     </a>
 <br/> 
 
- @endforeach
+ 
 
  
 </p>
+@endforeach
 
 </div>
 @endsection
