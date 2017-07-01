@@ -16,8 +16,8 @@
 Evento dettaglio
 </h1>
 
-    
-    <p>
+<br/>    
+<p>
 {{ $task->body }}
 </p>
 
