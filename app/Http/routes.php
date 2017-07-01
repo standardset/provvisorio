@@ -48,6 +48,24 @@ Route::group(['middleware' => ['web']], function () {
     });
     
     
+    Route::get('/tasks/{task}', function ($id) {
+        
+            dd($id);
+             
+             $tasks = DB::table('tasks')->get();
+           
+             
+              
+             
+         return view('elle.prova_database', compact('tasks'));
+    });
+    
+    
+    
+    
+    
+    
+    
     Route::get('/contatti', function () {
         return view('elle.contatti');
     });
