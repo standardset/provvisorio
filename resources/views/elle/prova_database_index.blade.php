@@ -23,7 +23,7 @@ Tutti gli eventi
 
 
 
-<a href="/tasks/{{ $task->id }}"> 
+<a href="/prova_database/tasks/{{ $task->id }}"> 
 
 {{ $task->body }}
 
