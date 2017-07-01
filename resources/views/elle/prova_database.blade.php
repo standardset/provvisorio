@@ -21,7 +21,7 @@ I responsabili per settore
 @foreach ($tasks as $task)
 
 <ul>
-<li>{{ $task }}</li>
+<li>{{ $task->body }}</li>
 
  @endforeach
 
