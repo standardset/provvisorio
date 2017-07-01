@@ -17,11 +17,7 @@ Evento dettaglio
 </h1>
 
 <p>
-
-
-<ul>
-<li>{{ $task->body }}</li>
- </ul> 
+{{ $task->body }}
 </p>
 
 </div>
