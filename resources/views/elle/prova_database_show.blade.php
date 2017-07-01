@@ -13,7 +13,7 @@
 <div>
 
 <h1 class="titolo_pagina">
-I responsabili per settore show
+Evento dettaglio
 </h1>
 
 <p>
