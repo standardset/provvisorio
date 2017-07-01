@@ -83,7 +83,7 @@ Route::group(['middleware' => ['web']], function () {
         
         dd($task);
                    
-         return view('elle.prova_database_show', compact('tasks'));
+         return view('elle.prova_database_show', compact('task'));
     });
     
     
