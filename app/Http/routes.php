@@ -48,7 +48,7 @@ Route::group(['middleware' => ['web']], function () {
     });
     
     
-    Route::get('/tasks/{task}', function ($id) {
+    Route::get('prova_database/tasks/{task}', function ($id) {
         
             dd($id);
              
