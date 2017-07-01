@@ -15,10 +15,17 @@
 <h1 class="titolo_pagina">
 Evento dettaglio
 </h1>
-
-<p>
+<ul>
+    
+    <li>
+        
+  <p>
 {{ $task->body }}
 </p>
+         
+    </li>
+</ul>
+
 
 </div>
 @endsection
