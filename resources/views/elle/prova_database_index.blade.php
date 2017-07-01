@@ -13,19 +13,18 @@
 <div>
 
 <h1 class="titolo_pagina">
-I responsabili per settore index
+Tutti gli eventi
 </h1>
 
 <p>
 
 @foreach ($tasks as $task)
 
-<ul>
-<li>{{ $task->body }}</li>
+{{ $task->body }}
 
  @endforeach
 
- </ul> 
+ 
 </p>
 
 </div>
