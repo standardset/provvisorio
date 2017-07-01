@@ -15,7 +15,7 @@
 <h1 class="titolo_pagina">
 Tutti gli eventi
 </h1>
-
+<br/>
 <p>
 
 @foreach ($tasks as $task)
