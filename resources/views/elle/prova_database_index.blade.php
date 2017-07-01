@@ -20,7 +20,7 @@ Tutti gli eventi
 
 @foreach ($tasks as $task)
 
-<a href="/tasks/"{{ $task->id }}"> 
+<a href="/tasks/{{ $task->id }}"> 
 
 {{ $task->body }}
 
