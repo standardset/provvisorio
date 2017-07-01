@@ -50,9 +50,11 @@ Route::group(['middleware' => ['web']], function () {
     
     Route::get('prova_database/tasks/{task}', function ($id) {
         
-            dd($id);
+            
              
-             $tasks = DB::table('tasks')->latest()->get();
+             $tasks = DB::table('tasks')->find($id);
+        
+        dd($task);
            
              
               
