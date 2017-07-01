@@ -52,7 +52,7 @@ Route::group(['middleware' => ['web']], function () {
         
             
              
-             $tasks = DB::table('tasks')->find($id);
+             $task = DB::table('tasks')->find($id);
         
         dd($task);
            
