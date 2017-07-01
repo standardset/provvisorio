@@ -52,7 +52,7 @@ Route::group(['middleware' => ['web']], function () {
         
             dd($id);
              
-             $tasks = DB::table('tasks')->get();
+             $tasks = DB::table('tasks')->latest()->get();
            
              
               
