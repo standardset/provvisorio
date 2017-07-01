@@ -39,7 +39,7 @@ Route::group(['middleware' => ['web']], function () {
     
          Route::get('/prova_database', function () {
              
-             $tasks = DB::table('tasks')->latest()->get();
+             $tasks = DB::table('tasks')->get();
            
              
               
