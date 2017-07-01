@@ -39,14 +39,12 @@ Route::group(['middleware' => ['web']], function () {
     
          Route::get('/prova_database', function () {
              
-             $tasks = [
-                 
-                 'Go to the store', 
-                 'Finish my screencast', 
-                 'Clean the house',
-             ]; 
+             $tasks = DB::table('tasks')->get();
+           
              
-        return view('elle.prova_database', compact('tasks'));
+             return $tasks; 
+             
+        // return view('elle.prova_database', compact('tasks'));
     });
     
     
