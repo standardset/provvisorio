@@ -81,7 +81,7 @@ Route::group(['middleware' => ['web']], function () {
                  
              $task = DB::table('tasks')->find($id);
         
-        dd($task);
+        
                    
          return view('elle.prova_database_show', compact('task'));
     });
