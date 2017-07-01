@@ -21,6 +21,7 @@ Tutti gli eventi
 @foreach ($tasks as $task)
 
 {{ $task->body }}
+<br/> 
 
  @endforeach
 
