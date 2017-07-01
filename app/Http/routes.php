@@ -35,9 +35,17 @@ Route::group(['middleware' => ['web']], function () {
      Route::get('/mappa', function () {
         return view('elle.mappa');
     });
+        
+    Route::get('/contatti', function () {
+        return view('elle.contatti');
+    });
     
     
-         Route::get('/prova_database', function () {
+    
+     //TUTORIAL LARAVEL //
+    
+    
+    Route::get('/prova_database', function () {
              
              $tasks = DB::table('tasks')->get();
            
@@ -46,6 +54,9 @@ Route::group(['middleware' => ['web']], function () {
              
          return view('elle.prova_database', compact('tasks'));
     });
+    
+    
+
     
     
     Route::get('prova_database/tasks/{task}', function ($id) {
@@ -64,13 +75,10 @@ Route::group(['middleware' => ['web']], function () {
     
     
     
+    // FINE TUTORIAL LARAVEL // 
     
     
     
-    
-    Route::get('/contatti', function () {
-        return view('elle.contatti');
-    });
     
     Route::get('/tasks', 'TaskController@index');
     Route::post('/task', 'TaskController@store');
