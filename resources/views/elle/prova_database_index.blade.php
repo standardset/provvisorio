@@ -20,7 +20,11 @@ Tutti gli eventi
 
 @foreach ($tasks as $task)
 
+<a href="prova_database/tasks/"{{ $task->id }}"> 
+
 {{ $task->body }}
+
+    </a>
 <br/> 
 
  @endforeach
