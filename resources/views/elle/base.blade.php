@@ -51,7 +51,7 @@ function writeTextTerzo(txt) {
 
 
 </head>
-<body class="azzurro" style="text-align: center;">
+<body class="cambia_colore" style="text-align: center;">
 
 
 
