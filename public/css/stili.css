@@ -71,11 +71,7 @@ div.fascia_menu {
 	position: fixed;
 	height: 85px;
 	width: 100%;
-	-webkit-animation-name: example; /* Chrome, Safari, Opera */
-	-webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
-	animation-name: example;
-	animation-duration: 8s;
-	animation-iteration-count: infinite;
+
 	opacity: 0.9;
 	z-index: 10;
 }
