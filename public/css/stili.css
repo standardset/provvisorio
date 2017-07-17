@@ -32,6 +32,9 @@ line-height: 140%;
 }
 
 
+h2.titolo_evento { 
+font-size: 50%;
+}
 
 ::selection { 
     background: #cccccc; 
@@ -165,6 +168,7 @@ img.ridimensiona {
 width: 100%;
     min-width: 300px;
     max-width: 400px;
+    margin-bottom: 50px;
     
 }
 

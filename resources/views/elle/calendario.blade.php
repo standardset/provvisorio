@@ -4,20 +4,16 @@
 <div class="flexbox">
 
 
-<div class="evento"><img class="ridimensiona" src="/img/placeholder.jpg" width="150px" height="auto"/> <br/><br/>Questo è il titolo <br/>dell'evento numero uno</div>
-<div class="evento"><img class="ridimensiona" src="/img/placeholder.jpg" width="150px" height="auto"/> <br/><br/>Questo è il titolo <br/>dell'evento numero uno</div>
-<div class="evento"><img class="ridimensiona" src="/img/placeholder.jpg" width="150px" height="auto"/> <br/><br/>Questo è il titolo <br/>dell'evento numero uno</div>
-<div class="evento"><img class="ridimensiona" src="/img/placeholder.jpg" width="150px" height="auto"/> <br/><br/>Questo è il titolo <br/>dell'evento numero uno</div>
-<div class="evento"><img class="ridimensiona" src="/img/placeholder.jpg" width="150px" height="auto"/> <br/><br/>Questo è il titolo <br/>dell'evento numero uno</div>
-<div class="evento"><img class="ridimensiona" src="/img/placeholder.jpg" width="150px" height="auto"/> <br/><br/>Questo è il titolo <br/>dell'evento numero uno</div>
+<div class="evento">
+<img class="ridimensiona" src="/img/placeholder.jpg" width="150px" height="auto"/> 
 
-<div class="evento"><img class="ridimensiona" src="/img/placeholder.jpg" width="150px" height="auto"/> <br/><br/>Questo è il titolo <br/>dell'evento numero uno</div>
-<div class="evento"><img class="ridimensiona" src="/img/placeholder.jpg" width="150px" height="auto"/> <br/><br/>Questo è il titolo <br/>dell'evento numero uno</div>
-<div class="evento"><img class="ridimensiona" src="/img/placeholder.jpg" width="150px" height="auto"/> <br/><br/>Questo è il titolo <br/>dell'evento numero uno</div>
-<div class="evento"><img class="ridimensiona" src="/img/placeholder.jpg" width="150px" height="auto"/> <br/><br/>Questo è il titolo <br/>dell'evento numero uno</div>
-<div class="evento"><img class="ridimensiona" src="/img/placeholder.jpg" width="150px" height="auto"/> <br/><br/>Questo è il titolo <br/>dell'evento numero uno</div>
-<div class="evento"><img class="ridimensiona" src="/img/placeholder.jpg" width="150px" height="auto"/> <br/><br/>Questo è il titolo <br/>dell'evento numero uno</div>
 
+   
+   <h2 class="titolo_evento">
+       Questo è il titolo <br/>dell'evento numero uno
+   </h2>
+   </div>
+    
 
 
 
