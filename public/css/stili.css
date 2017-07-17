@@ -46,6 +46,7 @@ line-height: 140%;
     height: 300px; 
     background-color: aqua;
 display: flex; 
+    z-index: 100;
 }
 
 div#1 { 
