@@ -150,7 +150,7 @@ div#box_centrato {
 
 .evento { 
     height: auto;
-    
+    width: 30%;
     border: 1px solid black;
     margin-bottom: 50px;
 }
