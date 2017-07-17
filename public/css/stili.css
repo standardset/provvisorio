@@ -151,7 +151,7 @@ div#box_centrato {
 #uno { 
     width: auto;
     height: auto;
-    background: red;
+    
     border: 1px solid black;
 }
 
@@ -159,7 +159,7 @@ div#box_centrato {
 #due { 
   width: auto;
     height: auto;
-    background: red;
+    
     border: 1px solid black;
 }
 
@@ -167,7 +167,7 @@ div#box_centrato {
 #tre { 
   width: auto;
     height: auto;
-    background: red;
+    
     border: 1px solid black;
 }
 
