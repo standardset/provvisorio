@@ -7,7 +7,7 @@
 
 <?php    
     
-for( $contatore=1; $contatore<10; $contatore++ ){
+for( $contatore=1; $contatore<20; $contatore++ ){
 		echo '<div class="evento">
 <img class="ridimensiona" src="/img/placeholder.jpg" width="150px" height="auto"/> 
 
