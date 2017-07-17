@@ -149,7 +149,6 @@ div#box_centrato {
 
 
 .evento { 
-    width: 100%;
     height: auto;
     
     border: 1px solid black;
@@ -161,7 +160,9 @@ div#box_centrato {
 
 
 
- 
+img.ridimensiona { 
+width: 100%; 
+}
 
 
 
