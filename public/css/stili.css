@@ -148,12 +148,12 @@ div#box_centrato {
 }
 
 
-#evento { 
+.evento { 
     width: auto;
     height: auto;
     
     border: 1px solid black;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 
