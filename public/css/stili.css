@@ -150,7 +150,22 @@ div#box_centrato {
 	height: auto;
 	
 	z-index: 5;
+    
+    
+    
+        justify-content: center;
+    align-items: center; 
+    
+    
+    
 }
+
+
+
+
+    display: flex; 
+
+
 
 
 
