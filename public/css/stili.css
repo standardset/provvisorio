@@ -134,7 +134,7 @@ div#box_centrato {
 
 .flexbox {
     margin-top: 200px;
-    width: 800px; 
+    width: 500px; 
     height: auto;
     border: 2px solid black;
     background-color: gold;
@@ -162,7 +162,7 @@ div#box_centrato {
 
 img.ridimensiona { 
 width: 100%;
-    max-width: 300px;
+    min-width: 300px;
     
 }
 
