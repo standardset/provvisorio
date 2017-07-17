@@ -153,6 +153,7 @@ div#box_centrato {
     
     
     
+    display: flex;
         justify-content: center;
     align-items: center; 
     
@@ -162,8 +163,7 @@ div#box_centrato {
 
 
 
-
-    display: flex; 
+ 
 
 
 
