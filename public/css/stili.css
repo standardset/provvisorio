@@ -132,7 +132,8 @@ div#box_centrato {
 /* _____________test flexbox________________ */
 
 
-.flexbox { 
+.flexbox {
+    margin-top: 300px;
     width: 500px; 
     height: 300px;
     border: 2px solid black;
