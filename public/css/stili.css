@@ -48,7 +48,7 @@ line-height: 140%;
     height: 300px; 
     background-color: gold;
     display: flex; 
-    flex-direction: row; 
+    flex-direction: column; 
     flex-wrap: wrap;
     justify-content: center; 
     align-items: center; 
