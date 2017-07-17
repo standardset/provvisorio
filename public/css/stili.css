@@ -151,8 +151,6 @@ div#box_centrato {
 .evento { 
     height: auto;
     width: 90%;
-    min-width: 300px;
-    max-width: 500px;
     border: 1px solid black;
     padding-bottom: 20px;
 }
