@@ -141,7 +141,7 @@ div.fascia_sfumatura_footer {
 
 
 div#box_centrato {
-	max-width: 600px;
+	width: 100%;
 	min-width: 300px;
 	margin: 0 auto;
 	margin-bottom: 150px;
