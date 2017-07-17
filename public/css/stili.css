@@ -40,6 +40,35 @@ line-height: 140%;
 
 
 
+/* test flexbox */
+.flexbox { 
+display: flex; 
+}
+
+div#1 { 
+
+    width: 50px; 
+    height: 50px; 
+    background-color: antiquewhite;
+}
+
+div#2 { 
+
+    width: 50px; 
+    height: 50px; 
+    background-color: yellowgreen;
+}
+
+div#3 { 
+
+    width: 50px; 
+    height: 50px; 
+    background-color: olivedrab;
+}
+
+/* test flexbox */ 
+
+
 
 @keyframes example {
     0% {background-color: #ffffff;}
