@@ -161,7 +161,8 @@ div#box_centrato {
 
 
 img.ridimensiona { 
-width: 100%;
+width: 90%;
+    height: auto;
     min-width: 300px;
     max-width: 400px;
     
