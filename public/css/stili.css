@@ -42,40 +42,7 @@ line-height: 140%;
 
 
 
-/* _____________test flexbox________________ */
 
-
-.flexbox { 
-    width: 500px; 
-    height: 300px;
-    border: 2px solid black;
-    background-color: gold;
-    display: flex; 
-    flex-direction: column; 
-    flex-wrap: wrap;
-    justify-content: center; 
-    align-items: center; 
-    
-}
-
-div#1 { 
-    background: red;
- border: 1px solid black;
-}
-
-div#2 { 
-
-    background: red;
- border: 1px solid black;
-}
-
-div#3 { 
-
-    background: red;
- border: 1px solid black;
-}
-
-/* ________________test flexbox_______________ */ 
 
 
 
@@ -154,12 +121,52 @@ div#box_centrato {
     
     
     display: flex;
-        justify-content: center;
+    justify-content: center;
     align-items: center; 
     
     
     
 }
+
+
+/* _____________test flexbox________________ */
+
+
+.flexbox { 
+    width: 500px; 
+    height: 300px;
+    border: 2px solid black;
+    background-color: gold;
+    margin-top: 300px;
+    display: flex; 
+    flex-direction: column; 
+    flex-wrap: wrap;
+    justify-content: center; 
+    align-items: center; 
+    
+}
+
+
+div#1 { 
+    background: red;
+    border: 1px solid black;
+}
+
+
+div#2 { 
+
+    background: red;
+    border: 1px solid black;
+}
+
+
+div#3 { 
+
+    background: red;
+    border: 1px solid black;
+}
+
+/* ________________test flexbox_______________ */ 
 
 
 
