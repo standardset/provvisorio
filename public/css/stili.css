@@ -138,10 +138,7 @@ div#box_centrato {
     border: 2px solid black;
     background-color: gold;
     display: flex; 
-    flex-direction: column; 
-    flex-wrap: wrap;
-    justify-content: center; 
-    align-items: center; 
+    flex-flow: row nowrap; 
     
 }
 
