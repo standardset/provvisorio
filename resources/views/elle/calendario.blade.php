@@ -1,7 +1,7 @@
 @extends('elle.base')
 
 @section('calendario')
-<div>
+<div class="flexbox">
 
 
 <div id="1">1</div>
