@@ -6,7 +6,12 @@
 <br/>
 <br/>
 <br/>
-<img src="/img/elle.png" alt="logo spazio elle" />
+<!--<img src="/img/elle.png" alt="logo spazio elle" />-->
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
  
  <iframe src="http://mailchi.mp/4b221cc1f321/newsletter-spazioelle-ottobre-2017" width="500px" height="2000px"></iframe>
