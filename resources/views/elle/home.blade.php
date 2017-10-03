@@ -14,7 +14,7 @@
 <br/>
 <br/>
  
- <iframe src="http://mailchi.mp/4b221cc1f321/newsletter-spazioelle-ottobre-2017" width="100%" height="6000" style="margin-top:150px"></iframe>
+ <iframe src="http://mailchi.mp/4b221cc1f321/newsletter-spazioelle-ottobre-2017" width="100%" height="6500" style="margin-top:150px"></iframe>
  
  
  
