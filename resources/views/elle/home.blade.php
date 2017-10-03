@@ -8,6 +8,8 @@
 <br/>
 <img src="/img/elle.png" alt="logo spazio elle" />
  
+ <iframe src="http://mailchi.mp/4b221cc1f321/newsletter-spazioelle-ottobre-2017"></iframe>
+ 
  
  
 <p class="testo_giustificato">
