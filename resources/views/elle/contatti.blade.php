@@ -2,10 +2,7 @@
 
 @section('contatti')
 
-<br/>
-<br/>
-<br/>
-<br/>
+
 <br/>
 <br/>
 <br/>
