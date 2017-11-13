@@ -1,4 +1,4 @@
-<?php
+ <?php
 /*
 |--------------------------------------------------------------------------
 | Routes File
@@ -49,7 +49,7 @@ Route::group(['middleware' => ['web']], function () {
              
              $tasks = DB::table('tasks')->get();             
              
-         return view('elle.prova_database', compact('tasks'));
+         return $tasks;
     });
     
     
