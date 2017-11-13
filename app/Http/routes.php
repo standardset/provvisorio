@@ -58,29 +58,24 @@ Route::group(['middleware' => ['web']], function () {
     
     
    
-               Route::get('prova_database/tasks/', function () {
+    Route::get('prova_database/tasks/', function () {
                  
              $tasks = DB::table('tasks')->latest()->get();
         
-                   
-         return view('elle.prova_database_index', compact('tasks'));
+          return view('elle.prova_database_index', compact('tasks'));
     });
     
     
     
     
     
-        Route::get('prova_database/{task}', function ($id) {
+    Route::get('prova_database/{task}', function ($id) {
                  
-           
-            
             $task = DB::table('tasks')->find($id);
             
              dd($task);
         
-        
-                   
-         return view('elle.prova_database_show', compact('tasks'));
+        return view('elle.prova_database_show', compact('tasks'));
     });
     
     
