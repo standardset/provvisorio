@@ -39,7 +39,7 @@ I responsabili per settore
 <ul>
 
 <li>
-   <a href="/prova_database/tasks/{{ $task->id }}">
+   <a href="/prova_database/{{ $task->id }}">
    {{ $task->body }}
     </a>
     </li>
