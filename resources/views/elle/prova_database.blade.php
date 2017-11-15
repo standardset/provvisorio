@@ -29,7 +29,7 @@
 <div>
 
 <h1 class="titolo_pagina">
-I responsabili per settore
+Tutti gli eventi
 </h1>
 
 <p>
