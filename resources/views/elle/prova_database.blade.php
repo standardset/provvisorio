@@ -37,8 +37,9 @@ I responsabili per settore
 @foreach ($tasks as $task)
 
 <ul>
+<a href="/prova_database/tasks/{{ $task->id }}">
 <li>{{ $task->body }}</li>
-
+    </a>
  @endforeach
 
  </ul> 
