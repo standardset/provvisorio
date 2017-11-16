@@ -105,7 +105,37 @@ Info: Patricia Martin tel. 079 264 33 31
    
 </div>
 
+<!-- ////////////FINE EVENTO//////////////////////--> 
+
+
+<!-- ////////////EVENTO//////////////////////-->
+<div class="evento">
+<div style="padding: 15px;">
+<h2 class="titolo_evento">14 e 21 NOVEMBRE<br/> GENITORI INSIEME</h2>
+ 
+<p class="testo_evento">
+     Genitorinsieme per mamme e papà di origine straniera comprende una serie di incontri in cui si condividono  le proprie esperienze di genitori e si riflette sull’educazione dei figli. Un modo per conoscere altre persone, esercitarsi nella lingua italiana, chiacchierare magari attorno ad un tavolo sorseggiando un buon té o caffé assieme alle conduttrici.
+<br/>
+<br/>
+Martedì 14 e 21 Novembre
+<br/>
+Ore 13.30 - 15.00 
+<br/>
+1° piano, sala incontro e piccola
+<br/>
+<br/>
+Info: Francesca Machado 091 751 94 52 www.genitorinsieme.ch
+</p>
+  
+ </div>
+   
+</div>
+
 <!-- ////////////FINE EVENTO//////////////////////-->
+
+
+
+
 
 
 
