@@ -134,6 +134,34 @@ Info: Francesca Machado 091 751 94 52 www.genitorinsieme.ch
 <!-- ////////////FINE EVENTO//////////////////////-->
 
 
+<!-- ////////////EVENTO//////////////////////-->
+<div class="evento">
+<div style="padding: 15px;">
+<h2 class="titolo_evento">17 NOVEMBRE<br/> EL FreeDay DJ SET MUSIC IMPROVISATION CON APERO</h2>
+ 
+<p class="testo_evento">
+     Uno fra gli appuntamenti più famosi del venerdì sera a ELLE. In funzione ci sarà una mescita con aperitivo e stuzzichini per tutti i gusti. Special Guest Dj Dingo. 
+<br/>
+<br/>
+Venerdì 17 Novembre 
+<br/>
+Ore: 18.00-22.00 
+<br/>
+1° piano, Sala incontro
+<br/>
+<br/>
+Info: Lorenzo Perucchi, Tel. 079 929 98 05
+</p>
+  
+ </div>
+   
+</div>
+
+<!-- ////////////FINE EVENTO//////////////////////-->
+
+
+
+
 
 
 
