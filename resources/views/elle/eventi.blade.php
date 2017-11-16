@@ -184,7 +184,96 @@ Info: Riccardo Lisi
    
 </div>
 
+<!-- ////////////FINE EVENTO//////////////////////--> 
+
+
+
+<!-- ////////////EVENTO//////////////////////-->
+<div class="evento">
+<div style="padding: 15px;">
+<h2 class="titolo_evento">20 NOVEMBRE<br/> BAGNI DI GONG</h2>
+ 
+<p class="testo_evento">
+     Un magico mondo sonoro si apre, portandoci oltre i confini del tempo e dello spazio favorendo uno stato di pace interiore. Cosa portare: materassino, ev. coperta per coprirsi (vestiti comodi) Costo: 25 CHF a incontro. Gradita la prenotazione. 
+<br/>
+<br/>
+Lunedì 20 novembre 
+<br/>
+Ore: 20.30 - 22.00 
+<br/>
+1° piano, Sala grande
+<br/>
+<br/>
+Info: Giovanni D’Antico 079/2386611 -info@heartofsound.ch
+</p>
+  
+ </div>
+   
+</div>
+
+<!-- ////////////FINE EVENTO//////////////////////--> 
+
+
+
+<!-- ////////////EVENTO//////////////////////-->
+<div class="evento">
+<div style="padding: 15px;">
+<h2 class="titolo_evento">23 NOVEMBRE<br/> CINELLE/Locarnesi in rassegna</h2>
+ 
+<p class="testo_evento">
+     Volti noti di Locarno si presentano al pubblico con un film per loro importante, un film che li ha segnati: ci raccontano perché lo hanno scelto e perché lo vogliono condividere con noi. Poi lo guardiamo tutti assieme. 
+3° incontro: Gianni Artaria parrucchiere del Ghiribizzo presenta "Pulp fiction" di Quentin Tarantino (1994). 
+<br/>
+<br/>
+Giovedì 23 novembre 
+<br/>
+Ore: 20.30 - 22.00 
+<br/>
+1° piano, Sala piccola 
+<br/>
+<br/>
+Info: letteraturacinema@ellelocarno.ch
+</p>
+  
+ </div>
+   
+</div>
+
+<!-- ////////////FINE EVENTO//////////////////////--> 
+
+
+<!-- ////////////EVENTO//////////////////////-->
+<div class="evento">
+<div style="padding: 15px;">
+<h2 class="titolo_evento">24 NOVEMBRE<br/> LIRICHE IN SEMIBREVE - GOLD&GELD</h2>
+ 
+<p class="testo_evento">
+     Attorno ad un tema, ogni ultimo venerdì del mese, vengono proposti degli ascolti di brani tratti
+dal repertorio operistico: da Händel a Mozart, da Rossini a Verdi, da Bellini a Wagner e a molti altri. A scadenza mensile vengono proposti degli ascolti tematici tratti da opere liriche, senza introduzione e senza commenti. Ogni ascolto potrà essere seguito attraverso la lettura del libretto. Il pubblico, al quale si chiede un ascolto immerso nel silenzio di una sala non troppo illuminata, avrà a disposizione, contro un piccolo contributo volontario per la copertura dei costi, gli estratti dei libretti necessari per la comprensione dei brani proposti. 
+<br/>
+<br/>
+Venerdì 27 ottobre 
+<br/>
+Ore: 20.30 - 22.00Ore: 20.15-21.15 
+<br/>
+1° piano, Sala grande 
+<br/>
+<br/>
+Info: Pietro Nosetti, pietro.nosetti@bluewin.ch
+</p>
+  
+ </div>
+   
+</div>
+
 <!-- ////////////FINE EVENTO//////////////////////-->
+
+
+
+
+
+
+
 
 
 
