@@ -157,6 +157,8 @@ div#box_centrato {
     min-width: 300px;
     border: 1px solid black;
     margin-bottom: 50px;
+    margin-top: 20px;
+    padding: 15px;
 }
 
 
