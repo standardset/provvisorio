@@ -82,6 +82,36 @@ Info:  Info: Diana Rodriguez 079 808.40.66
 
 
 
+<!-- ////////////EVENTO//////////////////////-->
+<div class="evento">
+<div style="padding: 15px;">
+<h2 class="titolo_evento">10-17-24 NOVEMBRE<br/> DANZA POPOLARE "OVER 60"</h2>
+ 
+<p class="testo_evento">
+     Pro Senectute Creativ Center propone balli di gruppo alla scoperta delle tradizioni e musiche alla scoperta di diversi paesi. Ideale per mantenere agilità e per divertirsi insieme. Per donne e uomini. Due lezioni di prova.
+<br/>
+<br/>
+Venerdì 10-17-24 Novembre
+<br/>
+Ore 9.30 - 11.00 
+<br/>
+1° piano, Sala grande
+<br/>
+<br/>
+Info: Patricia Martin tel. 079 264 33 31
+</p>
+  
+ </div>
+   
+</div>
+
+<!-- ////////////FINE EVENTO//////////////////////-->
+
+
+
+
+
+
 
 
 

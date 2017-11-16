@@ -72,8 +72,7 @@ Venerdì 10-17-24 Novembre: Ore 9.30 - 11.00, 1° piano,
 <br/>
 Sala grande
 <br/><br/>
-Info:  pranzietici@gmail.com, facebook.com/pranzietici, 
-<br/>
+
 Info: Patricia Martin tel. 079 264 33 31
 </p>
 <br/>
