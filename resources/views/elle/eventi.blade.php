@@ -157,7 +157,37 @@ Info: Lorenzo Perucchi, Tel. 079 929 98 05
    
 </div>
 
+<!-- ////////////FINE EVENTO//////////////////////--> 
+
+
+
+<!-- ////////////EVENTO//////////////////////-->
+<div class="evento">
+<div style="padding: 15px;">
+<h2 class="titolo_evento">18 NOVEMBRE - 10 DICEMBRE<br/> ARTE CONTESTUALE - Quadri di Andrea Fiori</h2>
+ 
+<p class="testo_evento">
+     Esposizione di pittura a tematica sociale. L'artista è nato a Bellinzona nel 1981. 
+<br/>
+<br/>
+Sabato 18 Novembre 
+<br/>
+Ore: 18.00 
+<br/>
+1° piano, Sala piccola
+<br/>
+<br/>
+Info: Riccardo Lisi
+</p>
+  
+ </div>
+   
+</div>
+
 <!-- ////////////FINE EVENTO//////////////////////-->
+
+
+
 
 
 
