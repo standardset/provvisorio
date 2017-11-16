@@ -28,6 +28,7 @@ for( $contatore=1; $contatore<20; $contatore++ ){
 
 <!-- ////////////EVENTO//////////////////////-->
 <div class="evento">
+<div style="padding: 15px;">
 <h2 class="titolo_evento">3-10-17-24 NOVEMBRE - LA ELLE CUISINE</h2>
  
 <p class="testo_evento">
@@ -46,6 +47,7 @@ Anna tel. 079 392 12 93
 <br/>
 <br/>
   
+ </div>
    
 </div>
 
