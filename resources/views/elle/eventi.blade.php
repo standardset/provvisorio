@@ -1,10 +1,10 @@
 @extends('elle.base')
 
-@section('calendario')
+@section('eventi')
 <div class="flexbox">
 
 
-
+<!--
 <?php    
     
 for( $contatore=1; $contatore<20; $contatore++ ){
@@ -25,7 +25,7 @@ for( $contatore=1; $contatore<20; $contatore++ ){
  
                                                                                                                                 
  ?>   
-
+-->
 
 
 
