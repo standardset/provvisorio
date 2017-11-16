@@ -29,7 +29,7 @@ for( $contatore=1; $contatore<20; $contatore++ ){
 <!-- ////////////EVENTO//////////////////////-->
 <div class="evento">
 <div style="padding: 15px;">
-<h2 class="titolo_evento">3-10-17-24 NOVEMBRE - LA ELLE CUISINE</h2>
+<h2 class="titolo_evento">3-10-17-24 NOVEMBRE <br/> LA ELLE CUISINE</h2>
  
 <p class="testo_evento">
      Pasti genuini preparati con cura utilizzando verdure dell'orto, piante selvatiche, prodotti locali, biologici, fair trade e con il minimo di imballaggi.
