@@ -28,8 +28,8 @@ Route::group(['middleware' => ['web']], function () {
         return view('elle.spazi');
     });
     
-    Route::get('/calendario', function () {
-        return view('elle.calendario');
+    Route::get('/eventi', function () {
+        return view('elle.eventi');
     });
     
      Route::get('/mappa', function () {
