@@ -16,16 +16,71 @@
 <br/>
 <br/>
 
+<!-- ////////////EVENTO//////////////////////-->
+
  <h2 class="titolo_evento">3-10-17-24 NOVEMBRE - LA ELLE CUISINE</h2> 
  <p>
      Pasti genuini preparati con cura utilizzando verdure dell'orto, piante selvatiche, prodotti locali, biologici, fair trade e con il minimo di imballaggi.
      <br/><br/>
-Tutti i venerdì 3-10-17-24 Novembre: Ore12.00-13.00, 1° piano, Sala incontro
+Tutti i venerdì 3-10-17-24 Novembre: Ore 12.00-13.00, 
+<br/>
+1° piano, Sala incontro
 <br/><br/>
-Info:  pranzietici@gmail.com, facebook.com/pranzietici, Anna tel. 079 392 12 93
+Info:  pranzietici@gmail.com, facebook.com/pranzietici, 
+<br/>
+Anna tel. 079 392 12 93
 </p>
+<br/>
+<hr class="filetto_eventi">
+<br/>
+<br/>
+<br/>
+<br/>
+<!-- ////////////FINE EVENTO//////////////////////-->
+ 
+ <!-- ////////////EVENTO//////////////////////-->
 
-<hr>
+ <h2 class="titolo_evento">3-10-17-24 NOVEMBRE - LA ELLE CUISINE</h2> 
+ <p>
+     Pasti genuini preparati con cura utilizzando verdure dell'orto, piante selvatiche, prodotti locali, biologici, fair trade e con il minimo di imballaggi.
+     <br/><br/>
+Tutti i venerdì 3-10-17-24 Novembre: Ore 12.00-13.00, 
+<br/>
+1° piano, Sala incontro
+<br/><br/>
+Info:  pranzietici@gmail.com, facebook.com/pranzietici, 
+<br/>
+Anna tel. 079 392 12 93
+</p>
+<br/>
+<hr class="filetto_eventi">
+<br/>
+<br/>
+<br/>
+<br/>
+<!-- ////////////FINE EVENTO//////////////////////-->
+
+<!-- ////////////EVENTO//////////////////////-->
+
+ <h2 class="titolo_evento">3-10-17-24 NOVEMBRE - LA ELLE CUISINE</h2> 
+ <p>
+     Pasti genuini preparati con cura utilizzando verdure dell'orto, piante selvatiche, prodotti locali, biologici, fair trade e con il minimo di imballaggi.
+     <br/><br/>
+Tutti i venerdì 3-10-17-24 Novembre: Ore 12.00-13.00, 
+<br/>
+1° piano, Sala incontro
+<br/><br/>
+Info:  pranzietici@gmail.com, facebook.com/pranzietici, 
+<br/>
+Anna tel. 079 392 12 93
+</p>
+<br/>
+<hr class="filetto_eventi">
+<br/>
+<br/>
+<br/>
+<br/>
+<!-- ////////////FINE EVENTO//////////////////////-->
  
 </div>
 
@@ -36,5 +91,9 @@ Info:  pranzietici@gmail.com, facebook.com/pranzietici, Anna tel. 079 392 12 93
  
 
 @endsection
+
+
+
+
 
 
