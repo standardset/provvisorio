@@ -31,6 +31,7 @@ Info:  pranzietici@gmail.com, facebook.com/pranzietici,
 Anna tel. 079 392 12 93
 </p>
 <br/>
+<br/>
 <hr class="filetto_eventi">
 <br/>
 <br/>
@@ -50,6 +51,7 @@ Sala piccola
 <br/><br/>
 Info:  Info: Diana Rodriguez 079 808.40.66
 </p>
+<br/>
 <br/>
 <hr class="filetto_eventi">
 <br/>
@@ -73,6 +75,7 @@ Info:  pranzietici@gmail.com, facebook.com/pranzietici,
 Info: Patricia Martin tel. 079 264 33 31
 </p>
 <br/>
+<br/>
 <hr class="filetto_eventi">
 <br/>
 <br/>
@@ -94,6 +97,7 @@ sala incontro e piccola
 <br/><br/>
 Info: Francesca Machado 091 751 94 52 www.genitorinsieme.ch
 </p>
+<br/>
 <br/>
 <hr class="filetto_eventi">
 <br/>
@@ -117,6 +121,7 @@ Sala incontro
 Info: Lorenzo Perucchi, Tel. 079 929 98 05
 </p>
 <br/>
+<br/>
 <hr class="filetto_eventi">
 <br/>
 <br/>
@@ -138,6 +143,7 @@ Sala piccola
 <br/><br/>
 Info: Riccardo Lisi
 </p>
+<br/>
 <br/>
 <hr class="filetto_eventi">
 <br/>
