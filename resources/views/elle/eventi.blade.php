@@ -248,8 +248,7 @@ Info: letteraturacinema@ellelocarno.ch
 <h2 class="titolo_evento">24 NOVEMBRE<br/> LIRICHE IN SEMIBREVE - GOLD&GELD</h2>
  
 <p class="testo_evento">
-     Attorno ad un tema, ogni ultimo venerdì del mese, vengono proposti degli ascolti di brani tratti
-dal repertorio operistico: da Händel a Mozart, da Rossini a Verdi, da Bellini a Wagner e a molti altri. A scadenza mensile vengono proposti degli ascolti tematici tratti da opere liriche, senza introduzione e senza commenti. Ogni ascolto potrà essere seguito attraverso la lettura del libretto. Il pubblico, al quale si chiede un ascolto immerso nel silenzio di una sala non troppo illuminata, avrà a disposizione, contro un piccolo contributo volontario per la copertura dei costi, gli estratti dei libretti necessari per la comprensione dei brani proposti. 
+     Attorno ad un tema, ogni ultimo venerdì del mese, vengono proposti degli ascolti di brani operistici: da Händel a Mozart, da Rossini a Verdi, da Bellini a Wagner e a molti altri. Ogni ascolto potrà essere seguito attraverso la lettura del libretto. Il pubblico, al quale si chiede un ascolto immerso nel silenzio di una sala non troppo illuminata, avrà a disposizione, contro un piccolo contributo volontario per la copertura dei costi, gli estratti dei libretti necessari per la comprensione dei brani proposti. 
 <br/>
 <br/>
 Venerdì 27 ottobre 
