@@ -21,7 +21,7 @@
 <br/>
 <br/>
 <br/>
-<h2>3-10-17-24 NOVEMBRE - LA ELLE CUISINE</h2> 
+<h2 class="titolo_evento">3-10-17-24 NOVEMBRE - LA ELLE CUISINE</h2> 
  <p>
      Pasti genuini preparati con cura utilizzando verdure dell'orto, piante selvatiche, prodotti locali, biologici, fair trade e con il minimo di imballaggi.
      <br/>
