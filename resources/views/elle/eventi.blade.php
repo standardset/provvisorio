@@ -22,9 +22,7 @@ for( $contatore=1; $contatore<20; $contatore++ ){
 	}
 
 
- 
-                                                                                                                                
- ?>   
+?>   
 -->
 
 
