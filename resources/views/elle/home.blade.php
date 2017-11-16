@@ -7,7 +7,7 @@
 <br/>
 <br/>
 <!--<img src="/img/elle.png" alt="logo spazio elle" />-->
- <div style="width:500px;">
+ <div style="width:450px;">
  
  <br/>
 <br/>
