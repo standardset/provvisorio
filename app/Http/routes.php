@@ -32,6 +32,11 @@ Route::group(['middleware' => ['web']], function () {
         return view('elle.eventi');
     });
     
+        Route::get('/corsi', function () {
+        return view('elle.corsi');
+    });
+    
+    
      Route::get('/mappa', function () {
         return view('elle.mappa');
     });
