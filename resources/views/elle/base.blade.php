@@ -58,9 +58,9 @@ function writeTextTerzo(txt) {
 
 
 <div class="fascia_menu">
-
+<span id="logo_scompare">
 <img style="float: left; padding-left: 25px; margin-top: 11px;" src="/img/logo_elle_fascia_menu.png" alt="logo spazio elle" height="55px" width="*"/>
-
+</span>
 
 <div id="indirizzo">
 <p style="text-align: left;">Piazza G. Pedrazzini 12
