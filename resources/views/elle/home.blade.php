@@ -37,7 +37,7 @@ Anna tel. 079 392 12 93
 <br/>
 <br/>
 <br/>
-<br/>
+
 <!-- ////////////FINE EVENTO//////////////////////-->
  
  <!-- ////////////EVENTO//////////////////////-->
@@ -59,7 +59,7 @@ Info:  Info: Diana Rodriguez 079 808.40.66
 <br/>
 <br/>
 <br/>
-<br/>
+
 <!-- ////////////FINE EVENTO//////////////////////-->
 
 <!-- ////////////EVENTO//////////////////////-->
@@ -83,7 +83,7 @@ Info: Patricia Martin tel. 079 264 33 31
 <br/>
 <br/>
 <br/>
-<br/>
+
 <!-- ////////////FINE EVENTO//////////////////////-->
 
 
@@ -107,7 +107,7 @@ Info: Francesca Machado 091 751 94 52 www.genitorinsieme.ch
 <br/>
 <br/>
 <br/>
-<br/>
+
 <!-- ////////////FINE EVENTO//////////////////////-->
 
 
@@ -131,7 +131,7 @@ Info: Lorenzo Perucchi, Tel. 079 929 98 05
 <br/>
 <br/>
 <br/>
-<br/>
+
 <!-- ////////////FINE EVENTO//////////////////////-->
 
 
@@ -155,7 +155,7 @@ Info: Riccardo Lisi
 <br/>
 <br/>
 <br/>
-<br/>
+
 <!-- ////////////FINE EVENTO//////////////////////-->
  
 </div>
