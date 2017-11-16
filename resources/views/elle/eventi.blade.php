@@ -35,10 +35,13 @@ for( $contatore=1; $contatore<20; $contatore++ ){
      Pasti genuini preparati con cura utilizzando verdure dell'orto, piante selvatiche, prodotti locali, biologici, fair trade e con il minimo di imballaggi.
 <br/>
 <br/>
-Tutti i venerdì 3-10-17-24 Novembre: Ore 12.00-13.00, 
+Tutti i venerdì 3-10-17-24 Novembre
+<br/>
+Ore 12.00-13.00, 
 <br/>
 1° piano, Sala incontro
-<br/><br/>
+<br/>
+<br/>
 Info:  pranzietici@gmail.com, facebook.com/pranzietici, 
 <br/>
 Anna tel. 079 392 12 93
