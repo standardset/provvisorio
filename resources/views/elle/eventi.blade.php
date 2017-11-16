@@ -43,9 +43,6 @@ Info:  pranzietici@gmail.com, facebook.com/pranzietici,
 <br/>
 Anna tel. 079 392 12 93
 </p>
-<br/>
-<br/>
-<br/>
   
  </div>
    
