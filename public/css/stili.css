@@ -55,11 +55,11 @@ font-size: 120%;
 
 
 @keyframes example {
-    0% {background-color: #ffffff;}
+    0% {background-color: #79abb4;}
     30% {background-color: #79abb4;}
     45% {background-color: #79abb4;}
     55% {background-color: #79abb4;}
-	 100% {background-color: #ffffff;}
+	 100% {background-color: #79abb4;}
 }
 
 
