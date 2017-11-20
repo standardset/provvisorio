@@ -1,4 +1,9 @@
 <?php
+
+
+use App\Task; 
+
+
 /*
 |--------------------------------------------------------------------------
 | Routes File
@@ -19,6 +24,8 @@
 | kernel and includes session state, CSRF protection, and more.
 |
 */
+
+
 Route::group(['middleware' => ['web']], function () {
     Route::get('/', function () {
         return view('elle.home');
