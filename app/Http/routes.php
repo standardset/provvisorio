@@ -52,7 +52,7 @@ Route::group(['middleware' => ['web']], function () {
     
     Route::get('/prova_database', function () {
              
-             $tasks = DB::table('tasks')->get();             
+       $tasks = App\Task::all();
              
          return view('elle.prova_database', compact('tasks'));
     });
