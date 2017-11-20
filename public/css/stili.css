@@ -204,6 +204,13 @@ a.collegamenti_menu:hover {
 	background-color: #e8e8e8;
 }
 
+a.collegamenti_menu:visited {
+	color: #000;
+	text-decoration: none;
+}
+
+
+
 
 a.collegamenti_interni:link {
     color: #407bf5;
