@@ -270,16 +270,12 @@ li a:hover:not(.active) {
 div#footer {
 text-align: center;
 	position: fixed;
-	  height: 30px;
-	  width: 100%;
+width: 100%;
 	  bottom: 0;
 	  font-size: 70%;
 	  padding-top: 20px;
-	 -webkit-animation-name: example; /* Chrome, Safari, Opera */
-	  -webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
-	  animation-name: example;
-	  animation-duration: 8s;
-	  animation-iteration-count: infinite;
+	height: 80px;
+	background-color: #79abb4;
 	  opacity: 0.9;
 	  
 }
