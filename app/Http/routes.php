@@ -76,7 +76,7 @@ Route::group(['middleware' => ['web']], function () {
     
     Route::get('prova_database/{task}', function ($id) {
                  
-            $task = DB::table('tasks')->find($id);
+            $task = App\Task::find($id);
         
         return view('elle.prova_database_show', compact('task'));
     });
