@@ -82,11 +82,7 @@ div.fascia_menu {
 	position: fixed;
 	height: 85px;
 	width: 100%;
-	-webkit-animation-name: example; /* Chrome, Safari, Opera */
-	-webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
-	animation-name: example;
-	animation-duration: 8s;
-	animation-iteration-count: infinite;
+	background-color: #79abb4;
 	opacity: 0.9;
 	z-index: 10;
 }
@@ -98,7 +94,7 @@ div.fascia_sfumatura_header {
 	height: 85px;
 	width: 100%;
 	z-index: 2;
-		background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0.5, rgba(255, 255, 255, 1)), color-stop(0.998, rgba(255, 255, 255, 0)));
+		background-color: #79abb4;
 	}
 
 
