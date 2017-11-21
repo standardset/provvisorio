@@ -41,7 +41,7 @@ class TDLController extends Controller
 
         $publishedEvents = array_filter($events,function ($e) { 
             if(!isset($e->data->stato)) return false;
-            return ($e->data->stato != "mmf2qbzmn"); 
+            return ($e->data->stato == "mmf2qbzmn"); 
         });
 
 
@@ -93,6 +93,10 @@ class TDLController extends Controller
             return $event;
 
         },$publishedEvents);
+
+        usort($eventi, function ($e1,$e2) {
+            return $e1->data_inizio->getTimestamp() - $e2->data_inizio->getTimestamp();
+        });
         
 
 
