@@ -4,6 +4,7 @@ html, body {
     
     font-family: 'News Cycle', sans-serif;
     height: 100%;
+    color: #fff;
 
 }
 
@@ -38,7 +39,7 @@ font-weight: 700;
 font-size: 120%;
     line-height: 120%;
     margin-bottom: 30px;
-    color: 
+
 }
 
 ::selection { 
@@ -55,11 +56,11 @@ font-size: 120%;
 
 
 @keyframes example {
-    0% {background-color: #ffffff;}
-    30% {background-color: #e3e5ff;}
-    45% {background-color: #f2e6ff;}
-    55% {background-color: #ffe6fe;}
-	 100% {background-color: #ffffff;}
+    0% {background-color: #79abb4;}
+    30% {background-color: #79abb4;}
+    45% {background-color: #79abb4;}
+    55% {background-color: #79abb4;}
+	 100% {background-color: #79abb4;}
 }
 
 
@@ -81,11 +82,7 @@ div.fascia_menu {
 	position: fixed;
 	height: 85px;
 	width: 100%;
-	-webkit-animation-name: example; /* Chrome, Safari, Opera */
-	-webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
-	animation-name: example;
-	animation-duration: 8s;
-	animation-iteration-count: infinite;
+	background-color: #79abb4;
 	opacity: 0.9;
 	z-index: 10;
 }
@@ -97,7 +94,7 @@ div.fascia_sfumatura_header {
 	height: 85px;
 	width: 100%;
 	z-index: 2;
-		background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0.5, rgba(255, 255, 255, 1)), color-stop(0.998, rgba(255, 255, 255, 0)));
+		background-color: #79abb4;
 	}
 
 
@@ -106,7 +103,7 @@ div.fascia_sfumatura_footer {
 	height: 80px;
 	width: 100%;	
 	bottom: 0;
-	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0.7, rgba(255, 255, 255, 1)), color-stop(0.5, rgba(255, 255, 255, 0)));
+	background-color: #79abb4;
 	}
 
 
@@ -159,7 +156,7 @@ div#box_centrato {
     height: 430px;
     width: 30%;
     min-width: 300px;
-    border: 1px solid black;
+    border: 1px solid #fff;
     margin-top: 20px;
     padding: 15px;
 }
@@ -169,7 +166,7 @@ div#box_centrato {
     height: auto;
     width: 30%;
     min-width: 300px;
-    border: 1px solid black;
+    border: 1px solid #fff;
     margin-top: 20px;
     padding: 15px;
 }
@@ -195,7 +192,7 @@ width: 100%;
 
 
 a.collegamenti_menu:link {
-    color: #000;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -203,6 +200,13 @@ a.collegamenti_menu:hover {
 	color: #cbcbcb;
 	background-color: #e8e8e8;
 }
+
+a.collegamenti_menu:visited {
+	color: #fff;
+	text-decoration: none;
+}
+
+
 
 
 a.collegamenti_interni:link {
@@ -266,17 +270,14 @@ li a:hover:not(.active) {
 div#footer {
 text-align: center;
 	position: fixed;
-	  height: 30px;
-	  width: 100%;
+width: 100%;
 	  bottom: 0;
 	  font-size: 70%;
 	  padding-top: 20px;
-	 -webkit-animation-name: example; /* Chrome, Safari, Opera */
-	  -webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
-	  animation-name: example;
-	  animation-duration: 8s;
-	  animation-iteration-count: infinite;
+	height: 50px;
+	background-color: #79abb4;
 	  opacity: 0.9;
+    z-index: 10;
 	  
 }
 

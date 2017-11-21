@@ -1,4 +1,9 @@
 <?php
+
+
+use App\Task; 
+
+
 /*
 |--------------------------------------------------------------------------
 | Routes File
@@ -19,6 +24,8 @@
 | kernel and includes session state, CSRF protection, and more.
 |
 */
+
+
 Route::group(['middleware' => ['web']], function () {
     Route::get('/', function () {
         return view('elle.home');
@@ -49,7 +56,7 @@ Route::group(['middleware' => ['web']], function () {
     
     
     
-     //TUTORIAL LARAVEL //
+     ////////////////TUTORIAL LARAVEL ////////////////////////
     
     
     Route::get('/prova_database', function () {
@@ -78,7 +85,7 @@ Route::group(['middleware' => ['web']], function () {
     
     Route::get('prova_database/{task}', function ($id) {
                  
-            $task = DB::table('tasks')->find($id);
+            $task = Task::find($id);
         
         return view('elle.prova_database_show', compact('task'));
     });
@@ -89,7 +96,7 @@ Route::group(['middleware' => ['web']], function () {
     
     
     
-    // FINE TUTORIAL LARAVEL // 
+    /////////////////// FINE TUTORIAL LARAVEL /////////////// 
     
     
     
