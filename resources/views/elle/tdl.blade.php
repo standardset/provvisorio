@@ -10,7 +10,7 @@
 
 <?php foreach($eventi as $evento) { ?>
 <!-- ////////////EVENTO//////////////////////-->
-<div class="evento">
+<div class="corso">
 <div style="padding: 15px;">
 
 <h3 class="data_evento"><?php echo $evento->data_inizio->format('G:i l j F Y');?></h3>
