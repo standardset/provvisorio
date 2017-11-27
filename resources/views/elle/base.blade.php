@@ -50,10 +50,7 @@ function writeTextTerzo(txt) {
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 
-    <script src="js/masonry-docs.min.js"></script>
-    <script src="js/masonry.pkgd.min.js"></script>
-    
-    
+  <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
 
 <script>
 
