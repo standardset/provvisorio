@@ -4,13 +4,11 @@
 <div class="flexbox">
 
 <script>
-$('.grid').masonry({
-  // set itemSelector so .grid-sizer is not used in layout
+
+    $('.grid').masonry({
   itemSelector: '.grid-item',
-  // use element for option
-  columnWidth: '.grid-item',
-  percentPosition: true
-})
+  columnWidth: 160
+});
 
 </script>
 
@@ -46,12 +44,6 @@ $('.grid').masonry({
 <?php } ?>
 
 
-<div class="grid">
-  <div class="grid-item">...</div>
-  <div class="grid-item grid-item--width2">...</div>
-  <div class="grid-item">...</div>
-  ...
-</div>
 
 
 

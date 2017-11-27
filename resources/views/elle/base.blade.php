@@ -18,7 +18,8 @@
 ================================================== -->
 
     <!-- Styles -->
-     <link href="/css/masonry-docs.css" rel="stylesheet">
+    <!-- <link href="/css/masonry-docs.css" rel="stylesheet">-->
+    
    <link href="/css/stili.css" rel="stylesheet">
   
 
@@ -49,6 +50,10 @@ function writeTextTerzo(txt) {
 
 
 
+    <script src="js/masonry-docs.min.js"></script>
+    <script src="js/masonry.pkgd.min.js"></script>
+    
+    
 
 
 
