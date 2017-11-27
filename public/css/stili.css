@@ -192,7 +192,6 @@ div#box_centrato {
 
 * { box-sizing: border-box; }
 
-body { font-family: sans-serif; }
 
 /* ---- grid ---- */
 
@@ -217,27 +216,6 @@ max-width: 1200px;
     border: 1px solid #fff;
     margin-top: 20px;
     padding: 15px;
-}
-
-.grid-item--width2 { width:  320px; }
-.grid-item--width3 { width:  480px; }
-.grid-item--width4 { width:  720px; }
-
-.grid-item--height2 { height: 200px; }
-.grid-item--height3 { height: 260px; }
-.grid-item--height4 { height: 360px; }
-
-/* ---- static-banner ---- */
-
-.static-banner {
-  position: absolute;
-  left: 10px;
-  top: 10px;
-  padding: 10px 30px;
-  color: white;
-  background: #A2C;
-  font-size: 22px;
-  z-index: 2; /* above items */
 }
 
 
