@@ -210,12 +210,14 @@ max-width: 1200px;
 /* ---- grid-item ---- */
 
 .grid-item {
+    float: left;
   height: auto;
     width: 30%;
     min-width: 300px;
     border: 1px solid #fff;
     margin-top: 20px;
     padding: 15px;
+    
 }
 
 
