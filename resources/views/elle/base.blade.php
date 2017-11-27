@@ -8,7 +8,7 @@
 
 
 
-    <title>ELLE LOCARNO</title>
+    <title>SPAZIO ELLE LOCARNO</title>
 
     <!-- Google font
 ================================================== -->
@@ -17,8 +17,7 @@
 <!-- fine google font
 ================================================== -->
 
-    <!-- Styles -->
-    <!-- <link href="/css/masonry-docs.css" rel="stylesheet">-->
+
     
    <link href="/css/stili.css" rel="stylesheet">
   
@@ -56,17 +55,20 @@ function writeTextTerzo(txt) {
 
 
 
-<script type="text/javascript">
+
+
+<script>
 $(function(){
-	$('.grid').masonry({
-  itemSelector: '.grid-item',
-  columnWidth: 160,
-        isAnimated: true,
-	});
+   var $container = $('.grid');            
+
+         $container.masonry({
+         itemSelector: '.grid-item',
+         isAnimated: true,
+      });
+
 });
+
 </script>
-
-
 
 
 
