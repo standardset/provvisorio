@@ -4,11 +4,11 @@
 <div class="flexbox">
 
 <script>
-$('.corso').masonry({
+$('.grid').masonry({
   // set itemSelector so .grid-sizer is not used in layout
-  itemSelector: '.corso',
+  itemSelector: '.grid-item',
   // use element for option
-  columnWidth: '.corso',
+  columnWidth: '.grid-sizer',
   percentPosition: true
 })
 
