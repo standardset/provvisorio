@@ -213,8 +213,8 @@ margin-top: 200px;
 .grid-item {
 
 float: left;
-  width: 80px;
-  height: 60px;
+  width: 300px;
+  height: auto;
     
    border: 1px solid #fff;
     margin: 20px;
