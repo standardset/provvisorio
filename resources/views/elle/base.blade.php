@@ -61,7 +61,6 @@ $(function(){
 	$('.grid').masonry({
   itemSelector: '.grid-item',
   columnWidth: 160,
-  percentPosition: true,
         isAnimated: true,
 	});
 });
