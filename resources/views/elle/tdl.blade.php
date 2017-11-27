@@ -16,7 +16,9 @@ $('.corso').masonry({
 
 <?php foreach($eventi as $evento) { ?>
 <!-- ////////////EVENTO//////////////////////-->
-<div class="corso">
+<div class="grid"> 
+
+<div class="grid-item">
 <div style="padding: 15px;">
 
 <h3 class="data_evento"><?php echo $evento->data_inizio->format('G:i l j F Y');?></h3>
@@ -38,9 +40,20 @@ $('.corso').masonry({
  </div>
    
 </div>
-
+    </div>
+    
 <!-- ////////////FINE EVENTO//////////////////////-->
 <?php } ?>
+
+
+<div class="grid">
+  <div class="grid-item">...</div>
+  <div class="grid-item grid-item--width2">...</div>
+  <div class="grid-item">...</div>
+  ...
+</div>
+
+
 
 
 
