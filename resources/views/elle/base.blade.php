@@ -48,7 +48,7 @@ function writeTextTerzo(txt) {
 }
 </script>
 
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 
     <script src="js/masonry-docs.min.js"></script>
     <script src="js/masonry.pkgd.min.js"></script>
@@ -135,7 +135,7 @@ for (var i = 0; i < document.links.length; i++) {
   
 
     <!-- JavaScripts -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
     {{-- <script src="{{ elixir('js/app.js') }}"></script> --}}
     
