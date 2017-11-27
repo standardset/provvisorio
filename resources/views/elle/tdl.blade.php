@@ -4,16 +4,7 @@
 <!-- <div class="flexbox"> -->
 
 
-<script>
 
-    $('.grid').masonry({
-  itemSelector: '.grid-item',
-  columnWidth: 160,
-  percentPosition: true,
-        isAnimated: true,
-});
-
-</script>
 
 
 
