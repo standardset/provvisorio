@@ -5,12 +5,10 @@
 
 <script>
 $('.grid').masonry({
-  // set itemSelector so .grid-sizer is not used in layout
+  // options
   itemSelector: '.grid-item',
-  // use element for option
-  columnWidth: '.grid-item',
-  percentPosition: true
-})
+  columnWidth: 200
+});
 
 </script>
 
