@@ -115,6 +115,7 @@ for (var i = 0; i < document.links.length; i++) {
 <div id="box_centrato">
 
  @yield('home')
+ @yield('tdl')
  @yield('spazi')
  @yield('eventi')
  @yield('corsi')
