@@ -3,10 +3,16 @@
 @section('eventi')
 <div class="flexbox">
 
+<script>
+$('.corso').masonry({
+  // set itemSelector so .grid-sizer is not used in layout
+  itemSelector: '.corso',
+  // use element for option
+  columnWidth: '.corso',
+  percentPosition: true
+})
 
-
-
-
+</script>
 
 <?php foreach($eventi as $evento) { ?>
 <!-- ////////////EVENTO//////////////////////-->
