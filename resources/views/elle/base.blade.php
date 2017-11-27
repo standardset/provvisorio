@@ -52,16 +52,21 @@ function writeTextTerzo(txt) {
 
   <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
 
-<script>
 
-    $('.grid').masonry({
+
+
+
+<script type="text/javascript">
+$(function(){
+	$('.grid').masonry({
   itemSelector: '.grid-item',
   columnWidth: 160,
   percentPosition: true,
         isAnimated: true,
+	});
 });
-
 </script>
+
 
 
 
@@ -115,7 +120,6 @@ for (var i = 0; i < document.links.length; i++) {
 <div id="box_centrato">
 
  @yield('home')
- @yield('tdl')
  @yield('spazi')
  @yield('eventi')
  @yield('corsi')
