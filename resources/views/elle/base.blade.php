@@ -18,8 +18,9 @@
 ================================================== -->
 
     <!-- Styles -->
+     <link href="/css/masonry-docs.css" rel="stylesheet">
    <link href="/css/stili.css" rel="stylesheet">
-   <link href="/css/masonry-docs.css" rel="stylesheet">
+  
 
 
 
