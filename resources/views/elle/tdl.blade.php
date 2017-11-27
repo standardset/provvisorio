@@ -3,11 +3,11 @@
 @section('eventi')
 <!-- <div class="flexbox"> -->
 
-
+<div class="grid"> 
 
 <?php foreach($eventi as $evento) { ?>
 <!-- ////////////EVENTO//////////////////////-->
-<div class="grid"> 
+
 
 <div class="grid-item">
 <div style="padding: 15px;">
@@ -31,12 +31,12 @@
  </div>
    
 </div>
-    </div>
+ 
     
 <!-- ////////////FINE EVENTO//////////////////////-->
 <?php } ?>
 
-
+   </div>
 
 
 
