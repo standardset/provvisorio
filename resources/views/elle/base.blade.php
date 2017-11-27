@@ -52,6 +52,14 @@ function writeTextTerzo(txt) {
 
   <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
 
+
+
+
+
+
+</head>
+<body class="cambia_colore" style="text-align: center;">
+
 <script>
 
     $('.grid').masonry({
@@ -60,13 +68,6 @@ function writeTextTerzo(txt) {
 });
 
 </script>
-
-
-
-
-</head>
-<body class="cambia_colore" style="text-align: center;">
-
 
 
 
