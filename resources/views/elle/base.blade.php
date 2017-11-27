@@ -125,6 +125,7 @@ for (var i = 0; i < document.links.length; i++) {
     {{-- <script src="{{ elixir('js/app.js') }}"></script> --}}
     
     <script src="js/masonry-docs.min.js"></script>
+    <script src="js/masonry.pkgd.min.js"></script>
     
   </body>
     
