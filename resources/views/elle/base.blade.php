@@ -49,13 +49,19 @@ function writeTextTerzo(txt) {
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
-  <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
-
-
-
-
-
-
+  
+<!-- PROVE MANSORY -->  
+<!--  <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
+  
+  
+<script>
+$(function(){
+	$('.grid').masonry({
+  itemSelector: '.grid-item',
+  columnWidth: 160,
+	});
+});
+</script>
 
 <script>
 $(function(){
@@ -68,8 +74,9 @@ $(function(){
 
 });
 
-</script>
+</script> -->
 
+<!-- FINE PROVE MANSORY --> 
 
 
 </head>
