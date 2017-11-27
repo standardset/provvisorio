@@ -52,7 +52,16 @@ function writeTextTerzo(txt) {
 
   <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
 
+<script>
 
+    $('.grid').masonry({
+  itemSelector: '.grid-item',
+  columnWidth: 160,
+  percentPosition: true,
+        isAnimated: true,
+});
+
+</script>
 
 
 
