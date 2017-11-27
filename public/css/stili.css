@@ -198,7 +198,7 @@ div#box_centrato {
 .grid {
 margin-top: 200px;
  text-align: center;
-
+    width: auto;
 }
 
 /* clearfix */
@@ -212,11 +212,10 @@ margin-top: 200px;
 
 .grid-item {
 
-float: left;
-  width: 300px;
   height: auto;
-    
-   border: 1px solid #fff;
+    width: 30%;
+    min-width: 300px;
+    border: 1px solid #fff;
     margin: 20px;
     padding: 15px;
     
