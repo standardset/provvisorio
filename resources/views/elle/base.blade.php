@@ -57,8 +57,8 @@ function writeTextTerzo(txt) {
 
 <script>
 
-    $(".grid").masonry({
-  itemSelector: ".grid-item",
+    $('.grid').masonry({
+  itemSelector: '.grid-item',
   columnWidth: 160
 });
 
