@@ -199,6 +199,7 @@ body { font-family: sans-serif; }
 .grid {
   background: #EEE;
   max-width: 1200px;
+    
 }
 
 /* clearfix */
@@ -211,13 +212,12 @@ body { font-family: sans-serif; }
 /* ---- grid-item ---- */
 
 .grid-item {
-  width: 160px;
-  height: 120px;
-  float: left;
-  background: #D26;
-  border: 2px solid #333;
-  border-color: hsla(0, 0%, 0%, 0.5);
-  border-radius: 5px;
+  height: auto;
+    width: 30%;
+    min-width: 300px;
+    border: 1px solid #fff;
+    margin-top: 20px;
+    padding: 15px;
 }
 
 .grid-item--width2 { width:  320px; }
