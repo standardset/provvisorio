@@ -1,7 +1,7 @@
 @extends('elle.base')
 
 @section('eventi')
-
+<!-- <div class="flexbox"> -->
 
 <script>
 
@@ -47,27 +47,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!--</div>-->
 
 @endsection
