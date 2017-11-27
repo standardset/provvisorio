@@ -3,14 +3,7 @@
 @section('eventi')
 <!-- <div class="flexbox"> -->
 
-<script>
 
-    $(".grid").masonry({
-  itemSelector: ".grid-item",
-  columnWidth: 160
-});
-
-</script>
 
 <?php foreach($eventi as $evento) { ?>
 <!-- ////////////EVENTO//////////////////////-->
