@@ -10,7 +10,7 @@
 
 
 <div class="grid-item">
-<div style="padding: 15px;">
+
 
 <h3 class="data_evento"><?php echo $evento->data_inizio->format('G:i l j F Y');?></h3>
 <h2 class="titolo_evento">
@@ -28,7 +28,7 @@
 <?php echo nl2br($evento->info); ?>
 </p>
   
- </div>
+
    
 </div>
  
