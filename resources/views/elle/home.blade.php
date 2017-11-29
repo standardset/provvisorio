@@ -19,7 +19,7 @@
 <br/>
 <br/>
 <br/>
-<div class="immagine_sfondo_home"> </div>
+<div id="immagine_sfondo_home"> </div>
 
     
  
