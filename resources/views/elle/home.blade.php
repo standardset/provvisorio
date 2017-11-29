@@ -19,8 +19,9 @@
 <br/>
 <br/>
 <br/>
+<div class="immagine_sfondo_home"> </div>
 
-<img src="/img/spazio_elle.jpg" style="width:100%; height: *; bottom: 0;" alt="logo spazio elle" />
+    
  
 </div>
 
