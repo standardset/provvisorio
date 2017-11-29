@@ -28,7 +28,7 @@ use App\Task;
 
 Route::group(['middleware' => ['web']], function () {
     Route::get('/', function () {
-        return view('elle.tdl');
+        return view('elle.home');
     })->middleware('guest');
 
     Route::get('/spazi', function () {
@@ -52,6 +52,9 @@ Route::group(['middleware' => ['web']], function () {
         return view('elle.contatti');
     });
     
+        Route::get('/calendario', function () {
+        return view('elle.tdl');
+    });
     
     
     Route::get('/tdl','TDLController@eventi');
