@@ -20,7 +20,7 @@
 <br/>
 <br/>
 
-<img src="/img/spazio_elle_facciata.jpg" style="width:100%; height: *;" alt="logo spazio elle" />
+<img src="/img/spazio_elle.gif" style="width:100%; height: *;" alt="logo spazio elle" />
  
 </div>
 
