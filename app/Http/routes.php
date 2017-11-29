@@ -51,7 +51,12 @@ Route::group(['middleware' => ['web']], function () {
     Route::get('/contatti', function () {
         return view('elle.contatti');
     });
-
+    
+        Route::get('/tdl', function () {
+        return view('elle.tdl');
+    });
+    
+    
     Route::get('/tdl','TDLController@eventi');
     
     
