@@ -78,7 +78,7 @@ function writeTextTerzo(txt) {
 <li><a class="collegamenti_menu" href="/contatti"><p>CONTATTI</p></a></li>
 <li><a class="collegamenti_menu" href="/mappa"><p>MAPPA</p></a></li>
 <li><a class="collegamenti_menu" href="/spazi"><p>SPAZI</p></a></li>
-<li><a class="collegamenti_menu" href="/tdl"><p>CALENDARIO</p></a></li>
+<li><a class="collegamenti_menu" href="/tdl"><p>CALENDARI</p></a></li>
 <li><a class="collegamenti_menu" href="/"><p>HOME</p></a></li>
 </ul>
 
