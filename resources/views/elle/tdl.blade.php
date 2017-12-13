@@ -26,11 +26,11 @@
 <?php echo nl2br($evento->descrizione); ?>
 <br/>
 <br/>
-<?php echo "organizzatore: ".$evento->organizzatore; ?>
+<?php echo "Organizzatore: ".$evento->organizzatore; ?>
 <br/>
-<?php echo "luogo: ".$evento->locale; ?>
+<?php echo "Locale: ".$evento->locale; ?>
 <br/>
-<?php echo nl2br( "info: ".$evento->info); ?>
+<?php echo nl2br( "Info: ".$evento->info); ?>
 </p>
   
 
