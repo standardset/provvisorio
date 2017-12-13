@@ -32,6 +32,9 @@ line-height: 140%;
 	
 }
 
+div.rientranza_eventi {
+    padding-left: 30px;  
+}
 
 h3.data_evento {
 font-family: 'News Cycle', sans-serif;

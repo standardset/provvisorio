@@ -20,6 +20,7 @@
 <h3 class="data_evento"><i class="fa fa-clock-o" aria-hidden="true"></i> <?php echo $evento->data_inizio->format('G:i l j F Y');?></h3>
 <hr class="gradient">
 <br/>
+<div class="rientranza_eventi"> 
 <h2 class="titolo_evento">
 <?php echo $evento->titolo; ?>
 </h2>
@@ -34,7 +35,7 @@
 <br/>
 <?php echo nl2br( "Info: ".$evento->info); ?>
 </p>
-  
+</div> 
 
    
 </div>
