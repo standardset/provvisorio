@@ -34,6 +34,7 @@
 <?php echo "Locale: ".$evento->locale; ?>
 <br/>
 <?php echo nl2br( "Info: ".$evento->info); ?>
+<br/>
 </p>
 </div> 
 
