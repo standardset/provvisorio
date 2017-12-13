@@ -35,6 +35,7 @@
 <br/>
 <?php echo nl2br( "Info: ".$evento->info); ?>
 <br/>
+<br/>
 </p>
 </div> 
 
