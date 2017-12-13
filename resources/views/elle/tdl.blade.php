@@ -17,7 +17,7 @@
 <div class="grid-item">
 
 
-<h3 class="data_evento"><?php echo $evento->data_inizio->format('G:i l j F Y');?></h3>
+<h3 class="data_evento"><i class="fa fa-clock-o" aria-hidden="true"></i> <?php echo $evento->data_inizio->format('G:i l j F Y');?></h3>
 <hr class="gradient">
 <br/>
 <h2 class="titolo_evento">
