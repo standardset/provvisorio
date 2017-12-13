@@ -59,7 +59,8 @@ h2.titolo_evento {
 font-family: 'News Cycle', sans-serif;
 font-weight: 700;
 font-size: 180%;
-    line-height: 160%;
+    line-height: 120%;
+    margin-bottom: 20px;
     text-align: left; 
     text-transform: uppercase;
 
