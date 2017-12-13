@@ -26,9 +26,9 @@
 <?php echo nl2br($evento->descrizione); ?>
 <br/>
 <br/>
-<?php echo $evento->organizzatore; ?>
+<?php echo "organizzatore: ".$evento->organizzatore; ?>
 <br/>
-<?php echo "locale".($evento->locale); ?>
+<?php echo "luogo: ".($evento->locale); ?>
 <br/>
 <?php echo nl2br($evento->info); ?>
 </p>
