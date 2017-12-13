@@ -28,9 +28,9 @@
 <br/>
 <?php echo "organizzatore: ".$evento->organizzatore; ?>
 <br/>
-<?php echo "luogo: ".($evento->locale); ?>
+<?php echo "luogo: ".$evento->locale; ?>
 <br/>
-<?php echo nl2br($evento->info); ?>
+<?php echo nl2br( "info: ".$evento->info); ?>
 </p>
   
 
