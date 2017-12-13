@@ -18,7 +18,7 @@
 
 
 <h3 class="data_evento"><?php echo $evento->data_inizio->format('G:i l j F Y');?></h3>
-<hr/>
+<hr class="gradient">
 
 <h2 class="titolo_evento">
 <?php echo $evento->titolo; ?>
