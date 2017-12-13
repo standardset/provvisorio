@@ -1,7 +1,6 @@
 @extends('elle.base')
 
 @section('eventi')
-<!-- <div class="flexbox"> -->
 
 
 
@@ -50,7 +49,5 @@
    </div>
 
 
-
-<!--</div>-->
 
 @endsection

@@ -50,7 +50,6 @@ hr.gradient {
     border: 0;
     border-bottom: 1px dashed #ccc;
     background: #ffffff;
-    padding-left: 30px;
 }
 
 .testo_evento {
@@ -123,7 +122,8 @@ div.fascia_sfumatura_header {
 	height: 85px;
 	width: 100%;
 	z-index: 2;
-		background-color: #79abb4;
+        background-color: #79abb4; 
+        opacity: 0.8;
 	}
 
 
