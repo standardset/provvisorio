@@ -45,7 +45,7 @@ font-size: 120%;
 hr.gradient {
     border: 0;
     height: 1px;
-    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
 }
 
 .testo_evento {
@@ -60,7 +60,6 @@ font-family: 'News Cycle', sans-serif;
 font-weight: 700;
 font-size: 180%;
     line-height: 160%;
-    margin-bottom: 30px;
     text-align: left; 
     text-transform: uppercase;
 
