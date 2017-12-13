@@ -41,6 +41,12 @@ font-size: 120%;
 
 } 
 
+.testo_evento {
+    
+text-align: left; 
+    
+}
+
 
 h2.titolo_evento {
 font-family: 'News Cycle', sans-serif;
