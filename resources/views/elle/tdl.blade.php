@@ -18,9 +18,10 @@
 
 
 <h3 class="data_evento"><i class="fa fa-clock-o" aria-hidden="true"></i><span>&nbsp;&nbsp;</span> <?php echo $evento->data_inizio->format('G:i l j F Y');?></h3>
+
+<div class="rientranza_eventi">
 <hr class="gradient">
-<br/>
-<div class="rientranza_eventi"> 
+<br/> 
 <h2 class="titolo_evento">
 <?php echo $evento->titolo; ?>
 </h2>
