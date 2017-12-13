@@ -132,7 +132,9 @@ div.fascia_sfumatura_footer {
 	height: 80px;
 	width: 100%;	
 	bottom: 0;
-	background-color: #79abb4;
+    background-color: #79abb4;
+    opacity: 0.2;
+
 	}
 
 
@@ -154,7 +156,8 @@ div#box_centrato {
 	width: 100%;
 	min-width: 300px;
 	margin: 0 auto;
-	margin-bottom: 150px;
+    margin-bottom: 150px;
+    margin-left: 20px;
 
     
 	height: auto;
