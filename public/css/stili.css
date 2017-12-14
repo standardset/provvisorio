@@ -231,7 +231,7 @@ div#box_centrato {
 margin-top: 200px;
  text-align: center;
     width: auto;
-    display: flex;
+    display: flex; flex-wrap: wrap;
 }
 
 /* clearfix */
