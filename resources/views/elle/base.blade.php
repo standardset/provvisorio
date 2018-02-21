@@ -117,7 +117,7 @@ for (var i = 0; i < document.links.length; i++) {
 </div>
 
 
-<div id="footer"><p>© ELLE Locarno 2017 | <a href="http://www.studiozot.com">Webmaster</a></p></div>
+<div id="footer"><p>© ELLE Locarno 2017</p></div>
 
             
   
